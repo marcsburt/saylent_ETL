@@ -1,0 +1,999 @@
+Card Number,NAME,SSN,Customer Address,Transaction Method,Card Entry Method,Merchant,Transaction Date,Amount Completed,Balance available,Settlement Date,Terminal Location,Institution Name,Acquiring Institution Name,IsFraud
+9100100604,Beverly Aadland,100000605,9446 6097 RD,Pinned Purchase,Unknown,Walmart,1-Nov,5,600,3-Nov,70510,JPMorgan Chase,SunTrust Bank,0
+9100100846,Mariann Aalda,100000847,408 AABC STE 1A,Pinned Purch - Deny,MANUAL ENTRY,Target,3-Nov,7,840,4-Nov,70510,Bank of America,Charles Schwab,0
+9100140534,Aaliyah,100040535,PO BOX 6595,Pinned Purch - Rev,SWIPED MACHINE READ,BJS,11-Nov,335,40200,12-Nov,57401,Wells Fargo,American Express,1
+9100140655,Angela Aames,100040656,PO BOX 6075,Pinless Purchase,MANUAL ENTRY,Shell,13-Nov,336,40320,16-Nov,79601,Citigroup,Ally Financial,0
+9100138356,Caroline Aaron,100038357,PO BOX 916,Pinless Purch - Deny,SWIPED MACHINE READ,BP,15-Nov,317,38040,16-Nov,79601,Goldman Sachs,RBC Bank,0
+9100100604,Dorothy Abbott,100000605,PO BOX 2200,Pinless Purch - Rev,Unknown or terminal not used,Target,2-Nov,5,600,4-Nov,59001,Morgan Stanley,JPMorgan Chase,0
+9100100846,Diahnne Abbott,100000847,PO BOX 773,SIG Purchase,Manual key entry,BJS,4-Nov,7,840,5-Nov,59001,U.S. Bancorp,Bank of America,1
+9100140534,Rose Abdoo,100040535,1501 COUNTY RD 245,Inquiry,Mag stripe read ? CVV checking not possible,MBTA,6-Nov,335,40200,7-Nov,59001,Bank of New York Mellon,Wells Fargo,0
+9100140655,Paula Abdul,100040656,PO BOX 604,Signature Purch - Deny,Barcode read,Amazon.com,8-Nov,336,40320,11-Nov,49221,PNC Bank,Citigroup,0
+9100138356,Rakefet Abergel,100038357,PO BOX 1327,SIG Purchase - Rev,Unknown,Uber,10-Nov,317,38040,11-Nov,1001,Capital One,Goldman Sachs,0
+4003170000000000,Betty Aberlin,100000605,5123 FRYING PAN RD,Pre-Auth Purch,MANUAL ENTRY,Draftkings,12-Nov,5,600,14-Nov,1001,HSBC,Morgan Stanley,0
+4003170000000000,Donzaleigh Abernathy,100000847,115 W PARK ST,Pre-Auth - Deny,SWIPED MACHINE READ,,14-Nov,7,840,15-Nov,74824,TD Bank,U.S. Bancorp,0
+4003170000000000,Whitney Able,100040535,PO BOX 3524,Withdrawal,MANUAL ENTRY,Target,16-Nov,335,40200,17-Nov,85320,State Street,Citizens Bank,0
+4003170000000000,Amy Acker,100040656,710 E 5TH ST,Withdrawal - Deny,SWIPED MACHINE READ,BJS,7-Nov,336,40320,10-Nov,29801,BB&T,USAA,1
+4003170000000000,Jean Acker,100038357,PO BOX 1304,Withdrawal - Rev,Unknown or terminal not used,,9-Nov,317,38040,10-Nov,85321,SunTrust Bank,Fifth Third Bank,0
+4003170000000000,Bettye Ackerman,100000605,PO BOX 1367,Unknown,Manual key entry,Flowers.com,11-Nov,5,600,13-Nov,31701,Charles Schwab,BMO Harris Bank,1
+4003170000000000,Leslie Ackerman,100000847,740 ROUTE GOURDON,Other - Reversal,Mag stripe read ? CVV checking not possible,Walmart,2-Nov,7,840,3-Nov,31701,American Express,Santander Bank,0
+4003170000000000,Anabelle Acosta,100040535,1555 SHADOW RUN COURT #D301,Other - Deny,Barcode read,Target,4-Nov,335,40200,5-Nov,31707,Ally Financial,Regions Bank,0
+4003170000000000,Acquanetta,100040656,652 1/2 MAIN AVE,Transfer,Unknown,BJS,6-Nov,336,40320,9-Nov,12207,RBC Bank,M&T Bank,1
+4003170000000000,Ava Acres,100038357,PO BOX 6063,Transfer - Rev,MANUAL ENTRY,Shell,8-Nov,317,38040,9-Nov,12210,Citizens Bank,Northern Trust,0
+9100100604,Isabella Acres,100000605,32850 S ELK DR,Transfer - Deny,SWIPED MACHINE READ,BP,5-Nov,5,600,7-Nov,12207,USAA,Union Bank,0
+9100100846,Tatum Adair,100000847,PO BOX 1770,Pinless POS Transactions,MANUAL ENTRY,Target,7-Nov,7,840,8-Nov,12210,Fifth Third Bank,KeyCorp,0
+9100140534,Kathryn Adams Doty,100040535,PO BOX 6993,Pinned POS Transactions,SWIPED MACHINE READ,BJS,9-Nov,335,40200,10-Nov,35950,BMO Harris Bank,MSN Banknorth,1
+9100140655,Amy Adams,100040656,PO BOX 1151,Signature POS Transactions,Unknown or terminal not used,,1-Nov,336,40320,4-Nov,87109,Santander Bank,Bank of New York Mellon,0
+9100138356,Beverly Adams,100038357,2501 CISAR CT UNIT C1,Miscellaneous,Manual key entry,Amazon.com,3-Nov,317,38040,4-Nov,87106,Regions Bank,PNC Bank,0
+9100100604,Brooke Adams (actress),100000605,PO BOX 6184,MIscellaneous - Reversal,Mag stripe read ? CVV checking not possible,Uber,11-Nov,5,600,13-Nov,87108,M&T Bank,Capital One,0
+9100100846,Catlin Adams,100000847,226 MESA GRANDE DR,Miscellaneous - Deny,Barcode read,Draftkings,13-Nov,7,840,14-Nov,87109,Northern Trust,HSBC,0
+9100140534,Dorothy Adams,100040535,251 SHOOTER LN,ATM Withdrawal Transactions,Unknown,Nightlife,15-Nov,335,40200,16-Nov,87110,Union Bank,TD Bank,0
+9100140655,Eadie Adams,100040656,379 STAGECOACH LN,ATM - Other,MANUAL ENTRY,Target,2-Nov,336,40320,5-Nov,71302,KeyCorp,State Street,0
+9100138356,Freya Adams,100038357,7402 COUNTY ROAD 312,NewPymnt,SWIPED MACHINE READ,BJS,4-Nov,317,38040,5-Nov,71302,MSN Banknorth,BB&T,1
+9100100604,Jane Adams (actress),100000605,140 COMMONWEALTH AVE #C35,Payment - Reversal,MANUAL ENTRY,Shell,6-Nov,5,600,8-Nov,22370,JPMorgan Chase,SunTrust Bank,0
+9100100846,Joey Lauren Adams,100000847,2277 LONDON WAY,Payment - Deny,SWIPED MACHINE READ,Flowers.com,8-Nov,7,840,9-Nov,91801,Bank of America,Charles Schwab,1
+9100140534,Julie Adams,100040535,1725 HOWARD AVE UNIT B,Deposits,Unknown or terminal not used,Walmart,10-Nov,335,40200,11-Nov,32701,Wells Fargo,American Express,0
+9100140655,Lillian Adams,100040656,1801 W 2ND ST TRLR 6,Deposit - Reversals,Manual key entry,,12-Nov,336,40320,15-Nov,59311,Citigroup,Ally Financial,0
+9100138356,Marla Adams,100038357,136 JUNIPER TRL,Deposits - Denials,Mag stripe read ? CVV checking not possible,BJS,14-Nov,317,38040,15-Nov,59311,Goldman Sachs,RBC Bank,1
+9100140534,Mary Kay Adams,100040535,PO BOX 1417,Mag Stripe Contact,Barcode read,Shell,16-Nov,335,40200,18-Nov,79101,Morgan Stanley,JPMorgan Chase,0
+9100100604,Neile Adams,100000605,PO BOX 774261,Mag Stripe Contactless,Unknown,BP,7-Nov,5,600,8-Nov,79101,U.S. Bancorp,Bank of America,0
+9100100846,Poni Adams,100000847,PO BOX 5655,EMV Contact,MANUAL ENTRY,Target,9-Nov,7,840,10-Nov,79109,Bank of New York Mellon,Wells Fargo,0
+9100100604,Stella Adams,100000605,320 BIG PINON DR,EMV Contactless,SWIPED MACHINE READ,BJS,11-Nov,5,600,14-Nov,92801,PNC Bank,Citigroup,1
+4003170000000000,Yolanda Adams,100000847,PO BOX 334,Denied - Bad Pin,MANUAL ENTRY,MBTA,2-Nov,7,840,3-Nov,92805,Capital One,Goldman Sachs,0
+4003170000000000,Calpernia Addams,100040535,16030 6250 RD,EMV,SWIPED MACHINE READ,Amazon.com,4-Nov,335,40200,6-Nov,99503,HSBC,Morgan Stanley,0
+4003170000000000,Nancy Addison,100040656,628 HUNTER CREEK DR,BIN 435101,Unknown or terminal not used,Uber,6-Nov,336,40320,7-Nov,67002,TD Bank,U.S. Bancorp,0
+4003170000000000,Alexandra Adi,100038357,441 N 8TH ST,BIN 435525,Manual key entry,Draftkings,8-Nov,317,38040,9-Nov,21401,State Street,Citizens Bank,0
+4003170000000000,Celia Adler,100000605,3148 SKYLARK CT,BIN 454087,Mag stripe read ? CVV checking not possible,Nightlife,5-Nov,5,600,8-Nov,20701,BB&T,USAA,1
+4003170000000000,Joanna P. Adler,100000847,602 SLOAN ST,BIN 564217,Barcode read,Target,7-Nov,7,840,8-Nov,36201,SunTrust Bank,Fifth Third Bank,0
+9100140534,Sara Adler,100040535,PO BOX 505,BIN 577822,Unknown,BJS,9-Nov,335,40200,11-Nov,36201,Charles Schwab,BMO Harris Bank,1
+9100140655,Stella Adler,100040656,606 25 1/2 RD UNIT 5,BIN 440110,MANUAL ENTRY,Shell,1-Nov,336,40320,2-Nov,54913,American Express,Santander Bank,0
+9100138356,Pamela Adlon,100038357,2325 INTERSTATE AVE,BIN 467602,SWIPED MACHINE READ,Flowers.com,3-Nov,317,38040,4-Nov,27263,Ally Financial,Regions Bank,1
+9100100604,Iris Adrian,100000605,36906 GRANDVIEW MESA RD,BIN 449117,MANUAL ENTRY,Walmart,11-Nov,5,600,14-Nov,99722,RBC Bank,M&T Bank,0
+9100100846,Uzo Aduba,100000847,1800 MAIN ST APT C4,BIN 453539,SWIPED MACHINE READ,Target,13-Nov,7,840,14-Nov,76010,Citizens Bank,Northern Trust,0
+9100140534,Aarthi Agarwal,100040535,1972 W 3RD AVE UNIT A,BIN 601092,Unknown or terminal not used,BJS,15-Nov,335,40200,17-Nov,76011,USAA,Union Bank,1
+9100138356,Shohreh Aghdashloo,100038357,PO BOX 1346,BIN 557283,Manual key entry,Shell,2-Nov,317,38040,3-Nov,20301,Fifth Third Bank,KeyCorp,0
+9100100604,Dianna Agron,100000605,PO BOX 124,BIN 510365,Mag stripe read ? CVV checking not possible,BP,4-Nov,5,600,5-Nov,22201,BMO Harris Bank,MSN Banknorth,0
+9100100846,Christina Aguilera,100000847,645 FOX CT,BIN 51036501,Barcode read,Target,6-Nov,7,840,9-Nov,20301,Santander Bank,Bank of New York Mellon,0
+9100140534,Lassie Lou Ahern,100040535,PO BOX 2416,BIN 505902,Unknown,BJS,8-Nov,335,40200,9-Nov,22201,Regions Bank,PNC Bank,1
+9100138356,Peggy Ahern,100038357,PO BOX 1822,BIN 487340,MANUAL ENTRY,MBTA,10-Nov,317,38040,12-Nov,5250,M&T Bank,Capital One,0
+9100100604,Rita Rani Ahuja,100000605,263 MESA ENCANTADA,BIN 403146,SWIPED MACHINE READ,Amazon.com,12-Nov,5,600,13-Nov,5250,Northern Trust,HSBC,0
+9100100846,Mary Ainslee,100000847,PO BOX 827,BIN 413036,MANUAL ENTRY,Uber,14-Nov,7,840,15-Nov,,Union Bank,TD Bank,0
+9100140534,Helen Ainsworth,100040535,PO BOX 196,BIN 514378,SWIPED MACHINE READ,Draftkings,16-Nov,335,40200,19-Nov,,KeyCorp,State Street,0
+9100138356,Lexi Ainsworth,100038357,615 CHEYENNE AVE,BIN 51437809,Unknown or terminal not used,Nightlife,7-Nov,317,38040,8-Nov,,MSN Banknorth,BB&T,0
+9100140655,Soumaya Akaaboune,100040656,2940 N VIEW DR,BIN 533280,Manual key entry,Target,9-Nov,336,40320,11-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100100604,Karen Akers,100000605,2537 BRENNA WAY,BIN 558221,Mag stripe read ? CVV checking not possible,BJS,11-Nov,5,600,12-Nov,,Bank of America,Charles Schwab,1
+9100100846,Desiree Akhavan,100000847,617 E 11TH ST,BIN 586509,Barcode read,Shell,2-Nov,7,840,3-Nov,,Wells Fargo,American Express,0
+9100140534,Shuko Akune,100040535,27653 HIGHWAY 6 TRLR 1803,BIN 58650900,Unknown,Flowers.com,4-Nov,335,40200,7-Nov,,Citigroup,Ally Financial,1
+9100138356,Mackenzie Aladjem,100038357,PO BOX 5067,BIN 586509001,MANUAL ENTRY,Walmart,6-Nov,317,38040,7-Nov,,Goldman Sachs,RBC Bank,0
+9100140655,Lori Alan,100040656,PO BOX 485,BIN 58686200,SWIPED MACHINE READ,Target,8-Nov,336,40320,10-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100100604,Morjana Alaoui,100000605,PO BOX 135,BIN 58686201,MANUAL ENTRY,BJS,5-Nov,5,600,6-Nov,,U.S. Bancorp,Bank of America,1
+9100100846,Jessica Alba,100000847,56 N PAINTED HORSE CIR,BIN 418574,SWIPED MACHINE READ,Shell,7-Nov,7,840,8-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100140534,Maria Alba,100040535,328 E 1ST ST,BIN 42247000,Unknown or terminal not used,BP,9-Nov,335,40200,12-Nov,,PNC Bank,Citigroup,0
+9100138356,Mabel Albertson,100038357,PO BOX 1714,BIN 4224700003,Manual key entry,Target,1-Nov,317,38040,2-Nov,,Capital One,Goldman Sachs,0
+9100140655,Tessa Albertson,100040656,2643 CHESTNUT DR,BIN 42247001,Mag stripe read ? CVV checking not possible,BJS,3-Nov,336,40320,5-Nov,,HSBC,Morgan Stanley,1
+9100140534,Lola Albright,100040535,PO BOX 771343,BIN 4224700103,Barcode read,MBTA,11-Nov,335,40200,12-Nov,,TD Bank,U.S. Bancorp,0
+9100100604,Beatrice Alda,100000605,2141 DEVON ST,BIN 413951,Unknown,Amazon.com,13-Nov,5,600,14-Nov,,State Street,Citizens Bank,0
+9100100846,Elizabeth Alda,100000847,285 HOLLY LN,BIN 412676,MANUAL ENTRY,Uber,15-Nov,7,840,18-Nov,,BB&T,USAA,1
+9100138356,Rutanya Alda,100038357,1120 E 3RD AVE,BIN 486745,SWIPED MACHINE READ,Draftkings,2-Nov,317,38040,3-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100140534,Mary Alden,100040535,712 BURNING MOUNTAIN AVE,BIN 588011,MANUAL ENTRY,Nightlife,4-Nov,335,40200,6-Nov,,Charles Schwab,BMO Harris Bank,0
+9100100604,Mari Aldon,100000605,43 SPRUCE CT,BIN 551091,SWIPED MACHINE READ,Target,6-Nov,5,600,7-Nov,,American Express,Santander Bank,0
+9100100846,Kay Aldridge,100000847,2129 MONARCH PT,BIN 564348,Unknown or terminal not used,BJS,8-Nov,7,840,9-Nov,,Ally Financial,Regions Bank,1
+9100138356,Raquel Alessi,100038357,PO BOX 6437,BIN 564360,Manual key entry,Shell,10-Nov,317,38040,13-Nov,,RBC Bank,M&T Bank,0
+9100140534,Alex ter Avest,100040535,PO BOX 1898,BIN 588134,Mag stripe read ? CVV checking not possible,Flowers.com,12-Nov,335,40200,13-Nov,,Citizens Bank,Northern Trust,1
+9100100604,Denise Alexander,100000605,3524 COUNTY ROAD 103,BIN 485282,Barcode read,Walmart,14-Nov,5,600,16-Nov,,USAA,Union Bank,0
+9100100846,Jaimie Alexander,100000847,4380 COUNTY ROAD 331,BIN 483913,Unknown,Target,16-Nov,7,840,17-Nov,,Fifth Third Bank,KeyCorp,0
+9100138356,Jane Alexander,100038357,26451 TX HWY 77W,BIN 491496,MANUAL ENTRY,BJS,7-Nov,317,38040,8-Nov,,BMO Harris Bank,MSN Banknorth,1
+9100140534,Katharine Alexander,100040535,PO BOX 3756,BIN 503819,SWIPED MACHINE READ,Shell,9-Nov,335,40200,12-Nov,,Santander Bank,Bank of New York Mellon,0
+9100100604,Khandi Alexander,100000605,201 14TH ST UNIT 320,BIN 021303618,MANUAL ENTRY,BP,11-Nov,5,600,12-Nov,,Regions Bank,PNC Bank,0
+9100100846,Olivia Alexander,100000847,PO BOX 3359,BIN 422710,SWIPED MACHINE READ,Target,2-Nov,7,840,4-Nov,,M&T Bank,Capital One,0
+9100138356,Sasha Alexander,100038357,343 ELM AVE,BIN 418524,Unknown or terminal not used,BJS,4-Nov,317,600,5-Nov,,Northern Trust,HSBC,1
+9100140534,Gloria Alexandra,100040535,530 MAIN AVE,BIN 422330,Manual key entry,MBTA,6-Nov,335,840,7-Nov,,Union Bank,TD Bank,0
+9100100604,Tiana Alexandra,100000605,336 PARK AVE,BIN 422452,Mag stripe read ? CVV checking not possible,Amazon.com,8-Nov,5,40200,11-Nov,,KeyCorp,State Street,0
+9100100846,Sadie Alexandru,100000847,PO BOX 3942,BIN 449106,Barcode read,Uber,5-Nov,7,40320,6-Nov,,MSN Banknorth,BB&T,0
+9100138356,Marnie Alexenburg,100038357,104 LAKESIDE CT,BIN 447437,Unknown,Draftkings,7-Nov,317,38040,9-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100140534,Kristian Alfonso,100040535,PO BOX 6958,BIN 44743702,MANUAL ENTRY,Nightlife,9-Nov,335,600,10-Nov,,Bank of America,Charles Schwab,0
+9100100604,Brittney Alger,100000605,2505 GLEN VIEW DR,BIN 435863,SWIPED MACHINE READ,Target,1-Nov,5,840,2-Nov,,Wells Fargo,American Express,0
+9100100846,Khalilah Ali,100000847,1170 COUNTY ROAD 8B,BIN 435864,MANUAL ENTRY,BJS,3-Nov,7,40200,6-Nov,,Citigroup,Ally Financial,1
+9100138356,Tatyana Ali,100038357,689 PONDEROSA DR,BIN 460672,SWIPED MACHINE READ,Shell,11-Nov,317,40320,12-Nov,,Goldman Sachs,RBC Bank,0
+9100109074,Veronica Porché Ali,100009075,21346 LANNING RD,BIN 539780,Unknown or terminal not used,Flowers.com,13-Nov,75,38040,15-Nov,,Morgan Stanley,JPMorgan Chase,1
+9100126135,Mary Alice,100026136,1329 PITKIN AVE APT 14,BIN 449710,Manual key entry,Walmart,15-Nov,216,600,16-Nov,,U.S. Bancorp,Bank of America,0
+9100109074,Ana Alicia,100009075,5033 COUNTY ROAD 335 #259,BIN 577485,Mag stripe read ? CVV checking not possible,Target,2-Nov,75,840,3-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100109074,Bianca Allaine,100009075,624 LARIAT LOOP,BIN 577756,Barcode read,BJS,4-Nov,75,40200,7-Nov,,PNC Bank,Citigroup,1
+9100100604,Ava Allan,100000605,49 BOBCAT LN,BIN 484125,Unknown,Shell,6-Nov,5,40320,7-Nov,,Capital One,Goldman Sachs,0
+9100100846,Maud Allan,100000847,PO BOX 45,BIN 477410,MANUAL ENTRY,BP,8-Nov,7,38040,10-Nov,,HSBC,Morgan Stanley,0
+9100140534,Louise Allbritton,100040535,549 PRIMAVERA ST,BIN 447866,SWIPED MACHINE READ,Target,10-Nov,335,600,11-Nov,,TD Bank,U.S. Bancorp,0
+9100100604,Gia Allemand,100000605,1719 JUNIPER ST,BIN 412227,MANUAL ENTRY,BJS,12-Nov,5,840,13-Nov,,State Street,Citizens Bank,1
+9100100846,Aleisha Allen,100000847,252 WREN CT,BIN 412229,SWIPED MACHINE READ,MBTA,14-Nov,7,40200,17-Nov,,BB&T,USAA,1
+9100138356,Amy Allen,100038357,2600 S OAK HURST CT APT 20,BIN 588012,Unknown or terminal not used,Amazon.com,16-Nov,317,40320,17-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100100604,Barbara Jo Allen,100000605,PO BOX 215,BIN 567174,Manual key entry,Uber,7-Nov,5,38040,9-Nov,,Charles Schwab,BMO Harris Bank,0
+9100100846,Billie Allen,100000847,249 BLUE SPRUCE DR,BIN 587542,Mag stripe read ? CVV checking not possible,Draftkings,9-Nov,7,600,10-Nov,,American Express,Santander Bank,0
+9100140534,Christa B. Allen,100040535,21848 MYERS RD,BIN 58754299,Barcode read,Nightlife,11-Nov,335,840,12-Nov,,Ally Financial,Regions Bank,0
+9100100604,Crystal Allen,100000605,20541 TULIP CIR,BIN 402491,Unknown,Target,2-Nov,5,40200,5-Nov,,RBC Bank,M&T Bank,0
+9100100846,Debbie Allen,100000847,305 SOCIETY DR APT C5,BIN 443590,MANUAL ENTRY,BJS,4-Nov,7,40320,5-Nov,,Citizens Bank,Northern Trust,1
+9100138356,Dorothy Allen,100038357,PO BOX 271696,BIN 464341,SWIPED MACHINE READ,Shell,6-Nov,317,38040,8-Nov,,USAA,Union Bank,0
+9100100604,Elizabeth Allen (actress),100000605,PO BOX 6399,BIN 504375,MANUAL ENTRY,Flowers.com,8-Nov,5,600,9-Nov,,Fifth Third Bank,KeyCorp,1
+9100100846,Gracie Allen,100000847,4570 I-70 FRONTAGE RD,BIN 578268,SWIPED MACHINE READ,Walmart,5-Nov,7,840,6-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100140534,India Allen,100040535,3279 GROVE ST APT 18,BIN 575742,Unknown or terminal not used,Target,7-Nov,335,40200,10-Nov,,Santander Bank,Bank of New York Mellon,0
+9100100604,Jo Harvey Allen,100000605,560 RIVER VIEW DR UNIT 707,BIN 467644,Manual key entry,BJS,9-Nov,5,40320,10-Nov,,Regions Bank,PNC Bank,1
+9100100846,Joan Allen,100000847,PO BOX 237,BIN 486995,Mag stripe read ? CVV checking not possible,Shell,1-Nov,7,38040,3-Nov,,M&T Bank,Capital One,0
+9100138356,Jonelle Allen,100038357,PO BOX 3474,BIN 486999,Barcode read,BP,3-Nov,317,600,4-Nov,,Northern Trust,HSBC,0
+9100109074,Judith Allen,100009075,897 VITOS WAY,BIN 511267,Unknown,Target,11-Nov,75,840,12-Nov,,Union Bank,TD Bank,0
+9100109074,Karen Allen,100009075,737 35 6/10 RD,BIN 511249,MANUAL ENTRY,BJS,13-Nov,75,40200,16-Nov,,KeyCorp,State Street,1
+9100140534,Krista Allen,100040535,1248 SUNSET DR,BIN 523867,SWIPED MACHINE READ,MBTA,15-Nov,335,40320,16-Nov,,MSN Banknorth,BB&T,0
+9100100604,Laura Allen,100000605,1431 MANCHESTER DR,BIN 558249,MANUAL ENTRY,Amazon.com,2-Nov,5,38040,4-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100100846,Maude Allen,100000847,159 LITTLE ELK CREEK AVE,BIN 551373,SWIPED MACHINE READ,Uber,4-Nov,7,40200,5-Nov,,Bank of America,Charles Schwab,0
+9100138356,Nancy Allen (actress),100038357,BETTINA BRUSCH-STRECHER,BIN 551826,Unknown or terminal not used,Draftkings,6-Nov,317,600,7-Nov,,Wells Fargo,American Express,0
+9100134242,Phyllis Allen,100034243,PO BOX 4091,BIN 454591,Manual key entry,Nightlife,8-Nov,283,840,11-Nov,,Citigroup,Ally Financial,0
+9100140534,Rae Allen,100040535,231 HARRIS ST,BIN 430573,Mag stripe read ? CVV checking not possible,Target,10-Nov,335,600,11-Nov,,Goldman Sachs,RBC Bank,0
+9100100604,Sandy Allen,100000605,1293 BEDROCK CIR,BIN 43057301,Barcode read,BJS,12-Nov,5,840,14-Nov,,Morgan Stanley,JPMorgan Chase,1
+9100100846,Sasha Allen,100000847,PO BOX 291,BIN 43057304,Unknown,Shell,14-Nov,7,40200,15-Nov,,U.S. Bancorp,Bank of America,0
+9100138356,Sheila Matthews Allen,100038357,PO BOX 5675,BIN 585167,MANUAL ENTRY,Flowers.com,16-Nov,317,40320,17-Nov,,Bank of New York Mellon,Wells Fargo,1
+9100140534,Sian Barbara Allen,100040535,3722 LONE TREE LN,BIN 579259,SWIPED MACHINE READ,Walmart,7-Nov,335,38040,10-Nov,,PNC Bank,Citigroup,0
+9100100604,Tessa Allen,100000605,1464 CONESTOGA CIR,BIN 460362,MANUAL ENTRY,Target,9-Nov,5,600,10-Nov,,Capital One,Goldman Sachs,0
+9100100846,Kirstie Alley,100000847,3126 GRAND AVE,BIN 440155,SWIPED MACHINE READ,BJS,11-Nov,7,840,13-Nov,,HSBC,Morgan Stanley,1
+9100138356,Sara Allgood,100038357,127 CRAWFORD LN APT 3,BIN 44015505,Unknown or terminal not used,Shell,2-Nov,317,40200,3-Nov,,TD Bank,U.S. Bancorp,0
+9100140534,Monica Allison,100040535,PO BOX 8198,BIN 5159999,Manual key entry,BP,4-Nov,335,40320,5-Nov,,State Street,Citizens Bank,0
+9100100604,Elvia Allman,100000605,322 LIGHT HILL RD,BIN 517408,Mag stripe read ? CVV checking not possible,Target,6-Nov,5,38040,9-Nov,,BB&T,USAA,1
+9100100846,Jamie Anne Allman,100000847,1338 19 RD,BIN 502693,Barcode read,BJS,8-Nov,7,600,9-Nov,,SunTrust Bank,Fifth Third Bank,1
+9100138356,Astrid Allwyn,100038357,138 CIMARRON DR,BIN 551796,Unknown,MBTA,5-Nov,317,840,7-Nov,,Charles Schwab,BMO Harris Bank,0
+9100140655,June Allyson,100040656,PO BOX 6191,BIN 627829,MANUAL ENTRY,Amazon.com,7-Nov,336,40200,8-Nov,,American Express,Santander Bank,0
+9100140534,Daniella Alonso,100040535,1632 18 RD,BIN 627829999,SWIPED MACHINE READ,Uber,9-Nov,335,38040,10-Nov,,Ally Financial,Regions Bank,0
+9100100604,Corinne Alphen,100000605,107 SERNANDINA ST,BIN 461104,MANUAL ENTRY,Draftkings,1-Nov,5,600,4-Nov,,RBC Bank,M&T Bank,0
+9100100846,Carol Alt,100000847,PO BOX 109,BIN 453527,SWIPED MACHINE READ,Nightlife,3-Nov,7,840,4-Nov,,Citizens Bank,Northern Trust,0
+9100138356,Summer Altice,100038357,PO BOX 2324,BIN 452527,Unknown or terminal not used,Target,11-Nov,317,40200,13-Nov,,USAA,Union Bank,0
+9100140655,Angela Alvarado,100040656,PO BOX 1484,BIN 480373,Manual key entry,BJS,13-Nov,336,38040,14-Nov,,Fifth Third Bank,KeyCorp,1
+9100102661,Trini Alvarado,100002662,113 RIVERDOWN DR,BIN 586137,Mag stripe read ? CVV checking not possible,Shell,15-Nov,22,600,16-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100140534,Monique Alvarez,100040535,27653 HIGHWAY 6 TRLR 1704,BIN 479417,Barcode read,Flowers.com,2-Nov,335,840,5-Nov,,Santander Bank,Bank of New York Mellon,1
+9100100604,Betty Amann,100000605,PO BOX 520,BIN 472775,Unknown,Walmart,4-Nov,5,40200,5-Nov,,Regions Bank,PNC Bank,0
+9100100846,Erika Amato,100000847,PO BOX 953,BIN 503673,MANUAL ENTRY,Target,6-Nov,7,38040,8-Nov,,M&T Bank,Capital One,0
+9100138356,Kimberly Amato,100038357,545 1ST AVE APT 5H,BIN 490210,SWIPED MACHINE READ,BJS,8-Nov,317,40320,9-Nov,,Northern Trust,HSBC,1
+9100140655,Lauren Ambrose,100040656,175 COUNTY ROAD 135,BIN 434809,MANUAL ENTRY,Shell,10-Nov,336,600,11-Nov,,Union Bank,TD Bank,0
+9100137025,Tangie Ambrose,100037026,135 CEDAR RIDGE WAY,BIN 427569,SWIPED MACHINE READ,BP,12-Nov,306,840,15-Nov,,KeyCorp,State Street,0
+9100137025,Cindy Ambuehl,100037026,2702 H RD,BIN 417209,Unknown or terminal not used,Target,14-Nov,306,40200,15-Nov,,MSN Banknorth,BB&T,0
+9100137025,Amerie,100037026,34651 HIGHWAY 6,BIN 585160,Manual key entry,BJS,16-Nov,306,38040,18-Nov,,JPMorgan Chase,SunTrust Bank,1
+9100137025,Adrienne Ames,100037026,PO BOX 772473,BIN 5851608,Mag stripe read ? CVV checking not possible,MBTA,7-Nov,306,40320,8-Nov,,Bank of America,Charles Schwab,0
+9100109558,Ramsay Ames,100009559,664 SO ANNABELLE CT,BIN 58516099,Barcode read,Amazon.com,9-Nov,79,600,10-Nov,,Wells Fargo,American Express,0
+9100137025,Rosemary Ames,100037026,2607 GREENCLIFF DR,BIN 567024,Unknown,Uber,11-Nov,306,840,14-Nov,,Citigroup,Ally Financial,0
+9100116092,Mädchen Amick,100016093,34911 PRONGHORN DR,BIN 438516,MANUAL ENTRY,Draftkings,2-Nov,317,40200,3-Nov,,Goldman Sachs,RBC Bank,0
+9100116092,Suzy Amis Cameron,100016093,PO BOX 4080,BIN 439203,SWIPED MACHINE READ,Nightlife,4-Nov,75,38040,6-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Charlene Amoia,100016093,12110 RCR 69,BIN 439206,MANUAL ENTRY,Target,6-Nov,216,40320,7-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Elizabeth Amsden,100016093,1146 E 2ND AVE APT 7,BIN 477897,SWIPED MACHINE READ,BJS,8-Nov,75,40200,9-Nov,,Bank of New York Mellon,Wells Fargo,1
+9100116092,Eva Amurri,100016093,1435 AIRPORT ROAD,BIN 557124,Unknown or terminal not used,Shell,5-Nov,75,600,8-Nov,,PNC Bank,Citigroup,0
+9100116092,Kristina Anapau,100016093,PO BOX 582,BIN 545845,Manual key entry,Flowers.com,7-Nov,5,840,8-Nov,,Capital One,Goldman Sachs,1
+9100116092,Maureen Anderman,100016093,3089 PINYON PL,BIN 562722,Mag stripe read ? CVV checking not possible,Walmart,9-Nov,7,38040,11-Nov,,HSBC,Morgan Stanley,0
+9100116092,Andrea Anders,100016093,1300 N 21ST ST APT 306,BIN 562672,Barcode read,Target,1-Nov,335,40200,2-Nov,,TD Bank,U.S. Bancorp,0
+9100116092,Luana Anders,100016093,PO BOX 5686,BIN 451229,Unknown,BJS,3-Nov,5,600,4-Nov,,State Street,Citizens Bank,1
+9100116092,Merry Anders,100016093,51 W DRY CREEK CT,BIN 415558,MANUAL ENTRY,Shell,11-Nov,7,840,14-Nov,,BB&T,USAA,1
+9100116092,Bridgette Andersen,100016093,PO BOX 2912,BIN 402089,SWIPED MACHINE READ,BP,13-Nov,317,38040,14-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100116092,Audrey Marie Anderson,100016093,PO BOX 6463,BIN 401826,MANUAL ENTRY,Target,15-Nov,5,40200,17-Nov,,Charles Schwab,BMO Harris Bank,0
+9100116092,Barbara Anderson (actress),100016093,PO BOX 348,BIN 4018269,SWIPED MACHINE READ,BJS,2-Nov,7,600,3-Nov,,American Express,Santander Bank,1
+9100116092,Camille Anderson,100016093,1448 ELM AVE,BIN 586903,Unknown or terminal not used,MBTA,4-Nov,335,840,5-Nov,,Ally Financial,Regions Bank,0
+9100116092,Donna Anderson,100016093,302 MEADOWOOD DR APT G1,BIN 438569,Manual key entry,Amazon.com,6-Nov,5,38040,9-Nov,,RBC Bank,M&T Bank,0
+9100116092,Dusty Anderson,100016093,731 STORM KING CIR,BIN 467399,Mag stripe read ? CVV checking not possible,Uber,8-Nov,7,40200,9-Nov,,Citizens Bank,Northern Trust,0
+9100116092,Elaine Anderson Steinbeck,100016093,129 NIMBUS DR,BIN 501741,Barcode read,Draftkings,10-Nov,317,15960,12-Nov,,USAA,Union Bank,0
+9100116092,Ella Anderson,100016093,PO BOX 152,BIN 435527,Unknown,Nightlife,12-Nov,5,15960,13-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,Erika Anderson,100016093,729 CORRAL DR,BIN 402095,MANUAL ENTRY,Target,14-Nov,7,15960,15-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100116092,Eunice Anderson,100016093,3162 GLENDAM DR,BIN 415538,SWIPED MACHINE READ,BJS,16-Nov,335,15960,19-Nov,,Santander Bank,Bank of New York Mellon,1
+9100116092,Nicole Gale Anderson,100016093,688 CLARKSON AVE APT B,BIN 429444,MANUAL ENTRY,Shell,7-Nov,5,15960,8-Nov,,Regions Bank,PNC Bank,0
+9100116092,Gillian Anderson,100016093,PO BOX 6285,BIN 457087,SWIPED MACHINE READ,Flowers.com,9-Nov,133,15960,11-Nov,,M&T Bank,Capital One,1
+9100116092,Jacqueline Anderson,100016093,523 JACOBS PL,BIN 500175,Unknown or terminal not used,Walmart,11-Nov,133,15960,12-Nov,,Northern Trust,HSBC,0
+9100116092,Jo Anderson,100016093,52 POPPY CT,BIN 499976,Manual key entry,Target,2-Nov,133,15960,3-Nov,,Union Bank,TD Bank,0
+9100116092,Loni Anderson,100016093,301 CASTLE RIDGE DR,BIN 425324,Mag stripe read ? CVV checking not possible,BJS,4-Nov,133,15960,7-Nov,,KeyCorp,State Street,1
+9100116092,Beverly Aadland,100016093,PO BOX 1565,BIN 413570,Barcode read,Shell,6-Nov,317,15960,7-Nov,,MSN Banknorth,BB&T,0
+9100116092,Mariann Aalda,100016093,2011 CAMBRIDGE DR,BIN 400351,Unknown,BP,8-Nov,75,15960,10-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100116092,Aaliyah,100016093,PO BOX 3462,BIN 577117,MANUAL ENTRY,Target,5-Nov,216,600,6-Nov,,Bank of America,Charles Schwab,0
+9100116092,Angela Aames,100016093,PO BOX 24272,BIN 460386,SWIPED MACHINE READ,BJS,7-Nov,75,840,8-Nov,,Wells Fargo,American Express,1
+9100116092,Caroline Aaron,100016093,20 CEDAR CREST DR,BIN 493036,MANUAL ENTRY,MBTA,9-Nov,75,40200,12-Nov,,Citigroup,Ally Financial,0
+9100116092,Dorothy Abbott,100016093,1506 ARIZONA ST,BIN 468244,SWIPED MACHINE READ,Amazon.com,1-Nov,5,40320,2-Nov,,Goldman Sachs,RBC Bank,0
+9100116092,Diahnne Abbott,100016093,1048 E COLUMBINE AVE,BIN 558188,Unknown or terminal not used,Uber,3-Nov,7,38040,5-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Rose Abdoo,100016093,214 VISTA HILLS DR,BIN 551147,Manual key entry,Draftkings,11-Nov,335,600,12-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Paula Abdul,100016093,PO BOX 1784,BIN 589178,Mag stripe read ? CVV checking not possible,Nightlife,13-Nov,5,840,14-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100116092,Rakefet Abergel,100016093,289 MOUNTAIN VIEW ST,BIN 589179,Barcode read,Target,15-Nov,7,40200,18-Nov,,PNC Bank,Citigroup,0
+9100116092,Betty Aberlin,100016093,PO BOX 773720,BIN 406024,Unknown,BJS,2-Nov,317,40320,3-Nov,,Capital One,Goldman Sachs,1
+9100116092,Donzaleigh Abernathy,100016093,PO BOX 811,BIN 446199,MANUAL ENTRY,Shell,4-Nov,5,38040,6-Nov,,HSBC,Morgan Stanley,0
+9100116092,Whitney Able,100016093,1 CHARTER OAK AVE UNIT 1,BIN 400373,SWIPED MACHINE READ,Flowers.com,6-Nov,7,600,7-Nov,,TD Bank,U.S. Bancorp,1
+9100116092,Amy Acker,100016093,536 TAMARACK DR UNIT 403,BIN 400374,MANUAL ENTRY,Walmart,8-Nov,335,840,9-Nov,,State Street,Citizens Bank,0
+9100116092,Jean Acker,100016093,319 SAGEMONT CIR,BIN 403590,SWIPED MACHINE READ,Target,10-Nov,5,40200,13-Nov,,BB&T,USAA,1
+9100116092,Bettye Ackerman,100016093,1859 GRACELAND DR,BIN 585798,Unknown or terminal not used,BJS,12-Nov,7,40320,13-Nov,,SunTrust Bank,Fifth Third Bank,1
+9100116092,Leslie Ackerman,100016093,402 BALLARD AVE,BIN 567522,Manual key entry,Shell,14-Nov,317,38040,16-Nov,,Charles Schwab,BMO Harris Bank,0
+9100116092,Anabelle Acosta,100016093,PO BOX 8800,BIN 415968,Mag stripe read ? CVV checking not possible,BP,16-Nov,5,600,17-Nov,,American Express,Santander Bank,0
+9100116092,Acquanetta,100016093,639 1/2 IAN CT,BIN 435134,Barcode read,Target,7-Nov,7,840,8-Nov,,Ally Financial,Regions Bank,0
+9100116092,Ava Acres,100016093,2379 VAN GORDON ST,BIN 453540,Unknown,BJS,9-Nov,335,40200,12-Nov,,RBC Bank,M&T Bank,1
+9100116092,Isabella Acres,100016093,920 MAIN ST,BIN 418517,MANUAL ENTRY,MBTA,11-Nov,5,40320,12-Nov,,Citizens Bank,Northern Trust,0
+9100116092,Tatum Adair,100016093,9447 6097 RD,BIN 586960,SWIPED MACHINE READ,Amazon.com,2-Nov,133,38040,4-Nov,,USAA,Union Bank,0
+9100116092,Kathryn Adams Doty,100016093,409 AABC STE 1A,BIN 587511,MANUAL ENTRY,Uber,4-Nov,133,600,5-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,Amy Adams,100016093,PO BOX 6595,BIN 416003,SWIPED MACHINE READ,Draftkings,6-Nov,133,840,7-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100116092,Beverly Adams,100016093,PO BOX 6075,BIN 429478,Unknown or terminal not used,Nightlife,8-Nov,317,40200,11-Nov,,Santander Bank,Bank of New York Mellon,0
+9100116092,Brooke Adams (actress),100016093,PO BOX 916,BIN 42947805,Manual key entry,Target,5-Nov,75,40320,6-Nov,,Regions Bank,PNC Bank,0
+9100116092,Catlin Adams,100016093,PO BOX 2200,BIN 42947855,Mag stripe read ? CVV checking not possible,BJS,7-Nov,216,38040,9-Nov,,M&T Bank,Capital One,1
+9100116092,Dorothy Adams,100016093,PO BOX 773,BIN 489745,Barcode read,Shell,9-Nov,75,600,10-Nov,,Northern Trust,HSBC,0
+9100116092,Eadie Adams,100016093,1502 COUNTY RD 245,BIN 586389,Unknown,Flowers.com,1-Nov,75,840,2-Nov,,Union Bank,TD Bank,1
+9100116092,Freya Adams,100016093,PO BOX 2050,BIN 511146,MANUAL ENTRY,Walmart,3-Nov,5,40200,6-Nov,,KeyCorp,State Street,0
+9100116092,Jane Adams (actress),100016093,PO BOX 2773,BIN 490789,SWIPED MACHINE READ,Target,11-Nov,7,40320,12-Nov,,MSN Banknorth,BB&T,0
+9100116092,Joey Lauren Adams,100016093,5124 FRYING PAN RD,BIN 486853,MANUAL ENTRY,BJS,13-Nov,335,38040,15-Nov,,JPMorgan Chase,SunTrust Bank,1
+9100116092,Julie Adams,100016093,116 W PARK ST,BIN 428037,SWIPED MACHINE READ,Shell,15-Nov,5,600,16-Nov,,Bank of America,Charles Schwab,0
+9100116092,Lillian Adams,100016093,PO BOX 3525,BIN 578132,Unknown or terminal not used,BP,2-Nov,7,840,3-Nov,,Wells Fargo,American Express,0
+9100116092,Marla Adams,100016093,711 E 5TH ST,BIN 578190,Manual key entry,Target,4-Nov,317,40200,7-Nov,,Citigroup,Ally Financial,0
+9100116092,Mary Kay Adams,100016093,PO BOX 1430,BIN 433566,Mag stripe read ? CVV checking not possible,BJS,6-Nov,5,40320,7-Nov,,Goldman Sachs,RBC Bank,1
+9100116092,Neile Adams,100016093,PO BOX 1493,BIN 440120,Barcode read,MBTA,8-Nov,7,38040,10-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Poni Adams,100016093,741 ROUTE GOURDON,BIN 440150,Unknown,Amazon.com,10-Nov,335,600,11-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Stella Adams,100016093,1556 SHADOW RUN COURT #D301,BIN 440152,MANUAL ENTRY,Uber,12-Nov,5,840,13-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100116092,Yolanda Adams,100016093,653 1/2 MAIN AVE,BIN 579225,SWIPED MACHINE READ,Draftkings,14-Nov,7,40200,17-Nov,,PNC Bank,Citigroup,0
+9100116092,Calpernia Addams,100016093,PO BOX 6064,BIN 477481,MANUAL ENTRY,Nightlife,16-Nov,317,40320,17-Nov,,Capital One,Goldman Sachs,0
+9100116092,Nancy Addison,100016093,32851 S ELK DR,BIN 477478,SWIPED MACHINE READ,Target,7-Nov,5,38040,9-Nov,,HSBC,Morgan Stanley,0
+9100116092,Alexandra Adi,100016093,PO BOX 1770,BIN 525837,Unknown or terminal not used,BJS,9-Nov,7,600,10-Nov,,TD Bank,U.S. Bancorp,1
+9100116092,Celia Adler,100016093,PO BOX 6993,BIN 534089,Manual key entry,Shell,11-Nov,335,840,12-Nov,,State Street,Citizens Bank,0
+9100116092,Joanna P. Adler,100016093,PO BOX 1151,BIN 531905,Mag stripe read ? CVV checking not possible,Flowers.com,2-Nov,5,40200,5-Nov,,BB&T,USAA,1
+9100116092,Sara Adler,100016093,2502 CISAR CT UNIT C1,BIN 5756439,Barcode read,Walmart,4-Nov,133,40320,5-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100116092,Stella Adler,100016093,PO BOX 6185,BIN 585258,Unknown,Target,6-Nov,317,38040,8-Nov,,Charles Schwab,BMO Harris Bank,0
+9100116092,Pamela Adlon,100016093,227 MESA GRANDE DR,BIN 532511,MANUAL ENTRY,BJS,8-Nov,75,600,9-Nov,,American Express,Santander Bank,1
+9100116092,Iris Adrian,100016093,252 SHOOTER LN,BIN 515384,SWIPED MACHINE READ,Shell,5-Nov,216,840,6-Nov,,Ally Financial,Regions Bank,0
+9100116092,Uzo Aduba,100016093,380 STAGECOACH LN,BIN 460377,MANUAL ENTRY,BP,7-Nov,75,40200,10-Nov,,RBC Bank,M&T Bank,0
+9100116092,Aarthi Agarwal,100016093,7403 COUNTY ROAD 312,BIN 460355,SWIPED MACHINE READ,Target,9-Nov,75,40320,10-Nov,,Citizens Bank,Northern Trust,0
+9100116092,Shohreh Aghdashloo,100016093,141 COMMONWEALTH AVE #C35,BIN 434806,Unknown or terminal not used,BJS,1-Nov,5,38040,3-Nov,,USAA,Union Bank,1
+9100116092,Dianna Agron,100016093,2278 LONDON WAY,BIN 434836,Manual key entry,MBTA,3-Nov,7,600,4-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,Christina Aguilera,100016093,1726 HOWARD AVE UNIT B,BIN 493053,Mag stripe read ? CVV checking not possible,Amazon.com,11-Nov,335,840,12-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100116092,Lassie Lou Ahern,100016093,1802 W 2ND ST TRLR 6,BIN 579382,Barcode read,Uber,13-Nov,5,40200,16-Nov,,Santander Bank,Bank of New York Mellon,0
+9100116092,Peggy Ahern,100016093,137 JUNIPER TRL,BIN 551269,Unknown,Draftkings,15-Nov,7,40320,16-Nov,,Regions Bank,PNC Bank,0
+9100116092,Rita Rani Ahuja,100016093,PO BOX 1417,BIN 529373,MANUAL ENTRY,Nightlife,2-Nov,317,38040,4-Nov,,M&T Bank,Capital One,0
+9100116092,Mary Ainslee,100016093,PO BOX 774261,BIN 53489155,SWIPED MACHINE READ,Target,4-Nov,5,40200,5-Nov,,Northern Trust,HSBC,0
+9100116092,Helen Ainsworth,100016093,PO BOX 5655,BIN 534898,MANUAL ENTRY,BJS,6-Nov,7,600,7-Nov,,Union Bank,TD Bank,1
+9100116092,Lexi Ainsworth,100016093,321 BIG PINON DR,BIN 523855,SWIPED MACHINE READ,Shell,8-Nov,335,840,11-Nov,,KeyCorp,State Street,0
+9100116092,Soumaya Akaaboune,100016093,PO BOX 335,BIN 52384550,Unknown or terminal not used,Flowers.com,10-Nov,5,600,11-Nov,,MSN Banknorth,BB&T,1
+9100116092,Karen Akers,100016093,16031 6250 RD,BIN 472719,Manual key entry,Walmart,12-Nov,7,840,14-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100116092,Desiree Akhavan,100016093,629 HUNTER CREEK DR,BIN 567201,Mag stripe read ? CVV checking not possible,Target,14-Nov,317,40200,15-Nov,,Bank of America,Charles Schwab,0
+9100116092,Shuko Akune,100016093,442 N 8TH ST,BIN 523845,Barcode read,BJS,16-Nov,5,40320,17-Nov,,Wells Fargo,American Express,1
+9100116092,Mackenzie Aladjem,100016093,3149 SKYLARK CT,BIN 52384510,Unknown,Shell,7-Nov,7,38040,10-Nov,,Citigroup,Ally Financial,0
+9100116092,Lori Alan,100016093,603 SLOAN ST,BIN 534891,MANUAL ENTRY,BP,9-Nov,335,600,10-Nov,,Goldman Sachs,RBC Bank,0
+9100116092,Morjana Alaoui,100016093,PO BOX 506,BIN 53489115,SWIPED MACHINE READ,Target,11-Nov,5,840,13-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Jessica Alba,100016093,607 25 1/2 RD UNIT 5,BIN 528440,MANUAL ENTRY,BJS,2-Nov,133,40200,3-Nov,,U.S. Bancorp,Bank of America,1
+9100116092,Maria Alba,100016093,2326 INTERSTATE AVE,BIN 531911,SWIPED MACHINE READ,MBTA,4-Nov,133,40320,5-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100116092,Mabel Albertson,100016093,36907 GRANDVIEW MESA RD,BIN 511820,Unknown or terminal not used,Amazon.com,6-Nov,133,38040,9-Nov,,PNC Bank,Citigroup,0
+9100116092,Tessa Albertson,100016093,1801 MAIN ST APT C4,BIN 428036,Manual key entry,Uber,8-Nov,133,600,9-Nov,,Capital One,Goldman Sachs,0
+9100116092,Lola Albright,100016093,1973 W 3RD AVE UNIT A,BIN 577140,Mag stripe read ? CVV checking not possible,Draftkings,5-Nov,133,840,7-Nov,,HSBC,Morgan Stanley,0
+9100116092,Beatrice Alda,100016093,PO BOX 1098,BIN 578165,Barcode read,Nightlife,7-Nov,133,40200,8-Nov,,TD Bank,U.S. Bancorp,0
+9100116092,Elizabeth Alda,100016093,PO BOX 2320,BIN 515176,Unknown,Target,9-Nov,133,40320,10-Nov,,State Street,Citizens Bank,0
+9100116092,Rutanya Alda,100016093,646 FOX CT,BIN 532297,MANUAL ENTRY,BJS,1-Nov,133,38040,4-Nov,,BB&T,USAA,1
+9100116092,Mary Alden,100016093,PO BOX 1228,BIN 539786,SWIPED MACHINE READ,Shell,3-Nov,133,600,4-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100116092,Mari Aldon,100016093,PO BOX 634,BIN 460654,MANUAL ENTRY,Flowers.com,11-Nov,133,840,13-Nov,,Charles Schwab,BMO Harris Bank,1
+9100116092,Kay Aldridge,100016093,264 MESA ENCANTADA,BIN 468245,SWIPED MACHINE READ,Walmart,13-Nov,133,40200,14-Nov,,American Express,Santander Bank,0
+9100116092,Raquel Alessi,100016093,PO BOX 435,BIN 441623,Unknown or terminal not used,Target,15-Nov,317,40320,16-Nov,,Ally Financial,Regions Bank,0
+9100116092,Alex ter Avest,100016093,PO BOX 1066,BIN 567238,Manual key entry,BJS,2-Nov,75,38040,5-Nov,,RBC Bank,M&T Bank,1
+9100116092,Denise Alexander,100016093,616 CHEYENNE AVE,BIN 416489,Mag stripe read ? CVV checking not possible,Shell,4-Nov,216,600,5-Nov,,Citizens Bank,Northern Trust,0
+9100116092,Jaimie Alexander,100016093,2941 N VIEW DR,BIN 460161,Barcode read,BP,6-Nov,75,840,8-Nov,,USAA,Union Bank,0
+9100116092,Jane Alexander,100016093,2538 BRENNA WAY,BIN 577315,Unknown,Target,8-Nov,75,40200,9-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,Katharine Alexander,100016093,618 E 11TH ST,BIN 586898,MANUAL ENTRY,BJS,10-Nov,5,40320,11-Nov,,BMO Harris Bank,MSN Banknorth,1
+9100116092,Khandi Alexander,100016093,27654 HIGHWAY 6 TRLR 1803,BIN 428029,SWIPED MACHINE READ,MBTA,12-Nov,7,38040,15-Nov,,Santander Bank,Bank of New York Mellon,0
+9100116092,Olivia Alexander,100016093,PO BOX 5067,BIN 429252,MANUAL ENTRY,Amazon.com,14-Nov,335,600,15-Nov,,Regions Bank,PNC Bank,0
+9100116092,Sasha Alexander,100016093,PO BOX 485,BIN 472716,SWIPED MACHINE READ,Uber,16-Nov,5,840,18-Nov,,M&T Bank,Capital One,0
+9100116092,Gloria Alexandra,100016093,PO BOX 135,BIN 588519,Unknown or terminal not used,Draftkings,7-Nov,7,40200,8-Nov,,Northern Trust,HSBC,0
+9100116092,Tiana Alexandra,100016093,57 N PAINTED HORSE CIR,BIN 420016,Manual key entry,Nightlife,9-Nov,317,40320,10-Nov,,Union Bank,TD Bank,0
+9100116092,Sadie Alexandru,100016093,329 E 1ST ST,BIN 445159,Mag stripe read ? CVV checking not possible,Target,11-Nov,5,38040,14-Nov,,KeyCorp,State Street,0
+9100116092,Marnie Alexenburg,100016093,PO BOX 1715,BIN 44515915,Barcode read,BJS,2-Nov,7,600,3-Nov,,MSN Banknorth,BB&T,1
+9100116092,Kristian Alfonso,100016093,2644 CHESTNUT DR,BIN 44515925,Unknown,Shell,4-Nov,335,840,6-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100116092,Brittney Alger,100016093,PO BOX 771344,BIN 44515929,MANUAL ENTRY,Flowers.com,6-Nov,5,40200,7-Nov,,Bank of America,Charles Schwab,1
+9100116092,Khalilah Ali,100016093,2142 DEVON ST,BIN 441244,SWIPED MACHINE READ,Walmart,8-Nov,7,40320,9-Nov,,Wells Fargo,American Express,0
+9100116092,Tatyana Ali,100016093,286 HOLLY LN,BIN 477497,MANUAL ENTRY,Target,5-Nov,317,38040,8-Nov,,Citigroup,Ally Financial,0
+9100116092,Veronica Porché Ali,100016093,1121 E 3RD AVE,BIN 568285,SWIPED MACHINE READ,BJS,7-Nov,5,600,8-Nov,,Goldman Sachs,RBC Bank,1
+9100116092,Mary Alice,100016093,713 BURNING MOUNTAIN AVE,BIN 557284,Unknown or terminal not used,Shell,9-Nov,7,840,11-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Ana Alicia,100016093,44 SPRUCE CT,BIN 540393,Manual key entry,BP,1-Nov,335,40200,2-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Bianca Allaine,100016093,2130 MONARCH PT,BIN 568533,Mag stripe read ? CVV checking not possible,Target,3-Nov,5,40320,4-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100116092,Ava Allan,100016093,PO BOX 2641,BIN 441906,Barcode read,BJS,11-Nov,133,38040,14-Nov,,PNC Bank,Citigroup,1
+9100116092,Maud Allan,100016093,PO BOX 7180,BIN 539807,Unknown,MBTA,13-Nov,133,600,14-Nov,,Capital One,Goldman Sachs,0
+9100116092,Louise Allbritton,100016093,3525 COUNTY ROAD 103,BIN 5398078,MANUAL ENTRY,Amazon.com,15-Nov,133,840,17-Nov,,HSBC,Morgan Stanley,0
+9100116092,Gia Allemand,100016093,4381 COUNTY ROAD 331,BIN 527812,SWIPED MACHINE READ,Uber,2-Nov,133,600,3-Nov,,TD Bank,U.S. Bancorp,0
+9100116092,Aleisha Allen,100016093,26452 TX HWY 77W,BIN 502520,MANUAL ENTRY,Draftkings,4-Nov,133,840,5-Nov,,State Street,Citizens Bank,0
+9100116092,Amy Allen,100016093,PO BOX 3757,BIN 460353,SWIPED MACHINE READ,Nightlife,6-Nov,133,40200,9-Nov,,BB&T,USAA,1
+9100116092,Barbara Jo Allen,100016093,202 14TH ST UNIT 320,BIN 4603536,Unknown or terminal not used,Target,8-Nov,133,40320,9-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100116092,Billie Allen,100016093,PO BOX 3360,BIN 406353,Manual key entry,BJS,10-Nov,133,38040,12-Nov,,Charles Schwab,BMO Harris Bank,1
+9100116092,Christa B. Allen,100016093,344 ELM AVE,BIN 404225,Mag stripe read ? CVV checking not possible,Shell,12-Nov,133,600,13-Nov,,American Express,Santander Bank,0
+9100116092,Crystal Allen,100016093,531 MAIN AVE,BIN 4042256,Barcode read,Flowers.com,14-Nov,317,840,15-Nov,,Ally Financial,Regions Bank,1
+9100116092,Debbie Allen,100016093,337 PARK AVE,BIN 4203031,Unknown,Walmart,16-Nov,75,40200,19-Nov,,RBC Bank,M&T Bank,0
+9100116092,Dorothy Allen,100016093,PO BOX 3943,BIN 4634491,MANUAL ENTRY,Target,7-Nov,216,40320,8-Nov,,Citizens Bank,Northern Trust,0
+9100116092,Elizabeth Allen (actress),100016093,105 LAKESIDE CT,BIN 442553,SWIPED MACHINE READ,BJS,9-Nov,75,38040,11-Nov,,USAA,Union Bank,1
+9100116092,Gracie Allen,100016093,PO BOX 6959,BIN 493041,MANUAL ENTRY,Shell,11-Nov,75,600,12-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,India Allen,100016093,2506 GLEN VIEW DR,BIN 536972,SWIPED MACHINE READ,BP,2-Nov,5,840,3-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100116092,Jo Harvey Allen,100016093,1171 COUNTY ROAD 8B,BIN 519824,Unknown or terminal not used,Target,4-Nov,7,40200,7-Nov,,Santander Bank,Bank of New York Mellon,0
+9100116092,Joan Allen,100016093,690 PONDEROSA DR,BIN 519888,Manual key entry,BJS,6-Nov,335,40320,7-Nov,,Regions Bank,PNC Bank,1
+9100116092,Jonelle Allen,100016093,21347 LANNING RD,BIN 567792,Mag stripe read ? CVV checking not possible,MBTA,8-Nov,5,38040,10-Nov,,M&T Bank,Capital One,0
+9100116092,Judith Allen,100016093,1330 PITKIN AVE APT 14,BIN 528729,Barcode read,Amazon.com,5-Nov,7,600,6-Nov,,Northern Trust,HSBC,0
+9100116092,Karen Allen,100016093,5034 COUNTY ROAD 335 #259,BIN 532262,Unknown,Uber,7-Nov,317,840,8-Nov,,Union Bank,TD Bank,0
+9100116092,Krista Allen,100016093,625 LARIAT LOOP,BIN 531906,MANUAL ENTRY,Draftkings,9-Nov,5,40200,12-Nov,,KeyCorp,State Street,0
+9100116092,Laura Allen,100016093,50 BOBCAT LN,BIN 534899,SWIPED MACHINE READ,Nightlife,1-Nov,7,40320,2-Nov,,MSN Banknorth,BB&T,0
+9100116092,Maude Allen,100016093,PO BOX 46,BIN 511945,MANUAL ENTRY,Target,3-Nov,335,38040,5-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100116092,Nancy Allen (actress),100016093,550 PRIMAVERA ST,BIN 558077,SWIPED MACHINE READ,BJS,11-Nov,5,600,12-Nov,,Bank of America,Charles Schwab,1
+9100116092,Phyllis Allen,100016093,1720 JUNIPER ST,BIN 566409,Unknown or terminal not used,Shell,13-Nov,7,840,14-Nov,,Wells Fargo,American Express,0
+9100116092,Rae Allen,100016093,253 WREN CT,BIN 472790,Manual key entry,Flowers.com,15-Nov,317,40200,18-Nov,,Citigroup,Ally Financial,1
+9100116092,Sandy Allen,100016093,2601 S OAK HURST CT APT 20,BIN 47279031,Mag stripe read ? CVV checking not possible,Walmart,2-Nov,5,40320,3-Nov,,Goldman Sachs,RBC Bank,0
+9100116092,Sasha Allen,100016093,PO BOX 216,BIN 430939,Barcode read,Target,4-Nov,7,38040,6-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Sheila Matthews Allen,100016093,250 BLUE SPRUCE DR,BIN 43093901,Unknown,BJS,6-Nov,335,600,7-Nov,,U.S. Bancorp,Bank of America,1
+9100116092,Sian Barbara Allen,100016093,21849 MYERS RD,BIN 43093904,MANUAL ENTRY,Shell,8-Nov,5,840,9-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100116092,Tessa Allen,100016093,20542 TULIP CIR,BIN 403124,SWIPED MACHINE READ,BP,10-Nov,133,40200,13-Nov,,PNC Bank,Citigroup,0
+9100116092,Kirstie Alley,100016093,306 SOCIETY DR APT C5,BIN 588190,MANUAL ENTRY,Target,12-Nov,133,40320,13-Nov,,Capital One,Goldman Sachs,0
+9100116092,Sara Allgood,100016093,PO BOX 258898,BIN 587006,SWIPED MACHINE READ,BJS,14-Nov,133,38040,16-Nov,,HSBC,Morgan Stanley,1
+9100116092,Monica Allison,100016093,PO BOX 524195,BIN 439210,Unknown or terminal not used,MBTA,16-Nov,133,600,17-Nov,,TD Bank,U.S. Bancorp,0
+9100116092,Elvia Allman,100016093,4571 I-70 FRONTAGE RD,BIN 478898,Manual key entry,Amazon.com,7-Nov,133,840,8-Nov,,State Street,Citizens Bank,0
+9100116092,Jamie Anne Allman,100016093,3280 GROVE ST APT 18,BIN 472138,Mag stripe read ? CVV checking not possible,Uber,9-Nov,133,40200,12-Nov,,BB&T,USAA,1
+9100116092,Astrid Allwyn,100016093,561 RIVER VIEW DR UNIT 707,BIN 426960,Barcode read,Draftkings,11-Nov,133,40320,12-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100116092,June Allyson,100016093,PO BOX 6711,BIN 567519,Unknown,Nightlife,2-Nov,133,38040,4-Nov,,Charles Schwab,BMO Harris Bank,0
+9100116092,Daniella Alonso,100016093,PO BOX 9948,BIN 588307,MANUAL ENTRY,Target,4-Nov,133,40200,5-Nov,,American Express,Santander Bank,0
+9100116092,Corinne Alphen,100016093,898 VITOS WAY,BIN 412086,SWIPED MACHINE READ,BJS,6-Nov,133,600,7-Nov,,Ally Financial,Regions Bank,1
+9100116092,Carol Alt,100016093,738 35 6/10 RD,BIN 464349,MANUAL ENTRY,Shell,8-Nov,133,840,11-Nov,,RBC Bank,M&T Bank,0
+9100116092,Summer Altice,100016093,1249 SUNSET DR,BIN 477466,SWIPED MACHINE READ,Flowers.com,5-Nov,133,600,6-Nov,,Citizens Bank,Northern Trust,1
+9100116092,Angela Alvarado,100016093,1432 MANCHESTER DR,BIN 502382,Unknown or terminal not used,Walmart,7-Nov,133,840,9-Nov,,USAA,Union Bank,0
+9100116092,Trini Alvarado,100016093,160 LITTLE ELK CREEK AVE,BIN 5023821,Manual key entry,Target,9-Nov,133,40200,10-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,Monique Alvarez,100016093,BETTINA BRUSCH-STRECHER,BIN 412081,Mag stripe read ? CVV checking not possible,BJS,1-Nov,133,40320,2-Nov,,BMO Harris Bank,MSN Banknorth,1
+9100116092,Betty Amann,100016093,PO BOX 4092,BIN 4120811,Barcode read,Shell,3-Nov,133,600,6-Nov,,Santander Bank,Bank of New York Mellon,0
+9100116092,Erika Amato,100016093,232 HARRIS ST,BIN 433577,Unknown,BP,11-Nov,133,840,12-Nov,,Regions Bank,PNC Bank,0
+9100116092,Kimberly Amato,100016093,1294 BEDROCK CIR,BIN 485582,MANUAL ENTRY,Target,13-Nov,133,40200,15-Nov,,M&T Bank,Capital One,0
+9100116092,Lauren Ambrose,100016093,PO BOX 11059,BIN 568513,SWIPED MACHINE READ,BJS,15-Nov,133,40320,16-Nov,,Northern Trust,HSBC,1
+9100116092,Tangie Ambrose,100016093,PO BOX 16443,BIN 567334,MANUAL ENTRY,MBTA,2-Nov,133,38040,3-Nov,,Union Bank,TD Bank,0
+9100116092,Cindy Ambuehl,100016093,3723 LONE TREE LN,BIN 401625,SWIPED MACHINE READ,Amazon.com,4-Nov,133,600,7-Nov,,KeyCorp,State Street,0
+9100116092,Amerie,100016093,1465 CONESTOGA CIR,BIN 467388,Unknown or terminal not used,Uber,6-Nov,133,840,7-Nov,,MSN Banknorth,BB&T,0
+9100116092,Adrienne Ames,100016093,3127 GRAND AVE,BIN 473385,Manual key entry,Draftkings,8-Nov,317,40200,10-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100116092,Ramsay Ames,100016093,128 CRAWFORD LN APT 3,BIN 568377,Mag stripe read ? CVV checking not possible,Nightlife,10-Nov,75,40320,11-Nov,,Bank of America,Charles Schwab,0
+9100116092,Rosemary Ames,100016093,PO BOX 8199,BIN 475478,Barcode read,Target,12-Nov,216,38040,13-Nov,,Wells Fargo,American Express,0
+9100116092,Mädchen Amick,100016093,323 LIGHT HILL RD,BIN 491459,Unknown,BJS,14-Nov,75,600,17-Nov,,Citigroup,Ally Financial,1
+9100116092,Suzy Amis Cameron,100016093,1339 19 RD,BIN 464334,MANUAL ENTRY,Shell,16-Nov,75,840,17-Nov,,Goldman Sachs,RBC Bank,0
+9100116092,Charlene Amoia,100016093,139 CIMARRON DR,BIN 467615,SWIPED MACHINE READ,Flowers.com,7-Nov,5,40200,9-Nov,,Morgan Stanley,JPMorgan Chase,1
+9100116092,Elizabeth Amsden,100016093,PO BOX 6192,BIN 477880,MANUAL ENTRY,Walmart,9-Nov,7,40320,10-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Eva Amurri,100016093,1633 18 RD,BIN 586407,SWIPED MACHINE READ,Target,11-Nov,335,38040,12-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100116092,Kristina Anapau,100016093,108 SERNANDINA ST,BIN 578089,Unknown or terminal not used,BJS,2-Nov,5,600,5-Nov,,PNC Bank,Citigroup,1
+9100116092,Maureen Anderman,100016093,PO BOX 109,BIN 511082,Manual key entry,Shell,4-Nov,7,840,5-Nov,,Capital One,Goldman Sachs,0
+9100116092,Andrea Anders,100016093,PO BOX 2324,BIN 519811,Mag stripe read ? CVV checking not possible,BP,6-Nov,317,40200,8-Nov,,HSBC,Morgan Stanley,0
+9100116092,Luana Anders,100016093,PO BOX 1484,BIN 429251,Barcode read,Target,8-Nov,5,40320,9-Nov,,TD Bank,U.S. Bancorp,0
+9100116092,Merry Anders,100016093,114 RIVERDOWN DR,BIN 422843,Unknown,BJS,5-Nov,7,38040,6-Nov,,State Street,Citizens Bank,1
+9100116092,Bridgette Andersen,100016093,27654 HIGHWAY 6 TRLR 1704,BIN 469501,MANUAL ENTRY,MBTA,7-Nov,335,600,10-Nov,,BB&T,USAA,1
+9100116092,Audrey Marie Anderson,100016093,PO BOX 1386,BIN 567876,SWIPED MACHINE READ,Amazon.com,9-Nov,5,840,10-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100116092,Barbara Anderson (actress),100016093,PO BOX 1819,BIN 586405,MANUAL ENTRY,Uber,1-Nov,7,40200,3-Nov,,Charles Schwab,BMO Harris Bank,0
+9100116092,Camille Anderson,100016093,546 1ST AVE APT 5H,BIN 429249,SWIPED MACHINE READ,Draftkings,3-Nov,317,40320,4-Nov,,American Express,Santander Bank,0
+9100116092,Donna Anderson,100016093,176 COUNTY ROAD 135,BIN 430076,Unknown or terminal not used,Nightlife,11-Nov,5,38040,12-Nov,,Ally Financial,Regions Bank,0
+9100116092,Dusty Anderson,100016093,136 CEDAR RIDGE WAY,BIN 436182,Manual key entry,Target,13-Nov,7,600,16-Nov,,RBC Bank,M&T Bank,0
+9100116092,Elaine Anderson Steinbeck,100016093,2703 H RD,BIN 448150,Mag stripe read ? CVV checking not possible,BJS,15-Nov,335,840,16-Nov,,Citizens Bank,Northern Trust,1
+9100116092,Ella Anderson,100016093,34652 HIGHWAY 6,BIN 493027,Barcode read,Shell,2-Nov,5,40200,4-Nov,,USAA,Union Bank,0
+9100116092,Erika Anderson,100016093,PO BOX 772474,BIN 577186,Unknown,Flowers.com,4-Nov,133,40320,5-Nov,,Fifth Third Bank,KeyCorp,1
+9100116092,Eunice Anderson,100016093,665 SO ANNABELLE CT,BIN 503440,MANUAL ENTRY,Walmart,6-Nov,133,38040,7-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100116092,Nicole Gale Anderson,100016093,2608 GREENCLIFF DR,BIN 467111,SWIPED MACHINE READ,Target,8-Nov,133,600,11-Nov,,Santander Bank,Bank of New York Mellon,0
+9100116092,Gillian Anderson,100016093,34912 PRONGHORN DR,BIN 474448,MANUAL ENTRY,BJS,10-Nov,317,840,11-Nov,,Regions Bank,PNC Bank,1
+9100116092,Jacqueline Anderson,100016093,PO BOX 4081,BIN 405017,SWIPED MACHINE READ,Shell,12-Nov,75,40200,14-Nov,,M&T Bank,Capital One,0
+9100116092,Jo Anderson,100016093,12111 RCR 69,BIN 411056,Unknown or terminal not used,BP,14-Nov,216,40320,15-Nov,,Northern Trust,HSBC,0
+9100116092,Loni Anderson,100016093,1147 E 2ND AVE APT 7,BIN 4110569,Manual key entry,Target,16-Nov,75,38040,17-Nov,,Union Bank,TD Bank,0
+9100116092,Beverly Aadland,100016093,1436 AIRPORT ROAD,BIN 430750,Mag stripe read ? CVV checking not possible,BJS,7-Nov,75,40200,10-Nov,,KeyCorp,State Street,1
+9100116092,Mariann Aalda,100016093,PO BOX 583,BIN 447435,Barcode read,MBTA,9-Nov,5,600,10-Nov,,MSN Banknorth,BB&T,0
+9100116092,Aaliyah,100016093,3090 PINYON PL,BIN 446855,Unknown,Amazon.com,11-Nov,7,840,13-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100116092,Angela Aames,100016093,1301 N 21ST ST APT 306,BIN 501547,MANUAL ENTRY,Uber,2-Nov,335,600,3-Nov,,Bank of America,Charles Schwab,0
+9100116092,Caroline Aaron,100016093,PO BOX 5687,BIN 477485,SWIPED MACHINE READ,Draftkings,4-Nov,5,840,5-Nov,,Wells Fargo,American Express,0
+9100116092,Dorothy Abbott,100016093,52 W DRY CREEK CT,BIN 427025,MANUAL ENTRY,Nightlife,6-Nov,7,40200,9-Nov,,Citigroup,Ally Financial,0
+9100116092,Diahnne Abbott,100016093,PO BOX 2912,BIN 424792,SWIPED MACHINE READ,Target,8-Nov,317,40320,9-Nov,,Goldman Sachs,RBC Bank,0
+9100116092,Rose Abdoo,100016093,PO BOX 6463,BIN 460385,Unknown or terminal not used,BJS,5-Nov,5,38040,7-Nov,,Morgan Stanley,JPMorgan Chase,1
+9100116092,Paula Abdul,100016093,PO BOX 348,BIN 577298,Manual key entry,Shell,7-Nov,7,600,8-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Rakefet Abergel,100016093,1449 ELM AVE,BIN 577929,Mag stripe read ? CVV checking not possible,Flowers.com,9-Nov,335,840,10-Nov,,Bank of New York Mellon,Wells Fargo,1
+9100116092,Betty Aberlin,100016093,303 MEADOWOOD DR APT G1,BIN 462401,Barcode read,Walmart,1-Nov,5,40200,4-Nov,,PNC Bank,Citigroup,0
+9100116092,Donzaleigh Abernathy,100016093,732 STORM KING CIR,BIN 575644,Unknown,Target,3-Nov,7,40320,4-Nov,,Capital One,Goldman Sachs,0
+9100116092,Whitney Able,100016093,130 NIMBUS DR,BIN 551716,MANUAL ENTRY,BJS,11-Nov,317,38040,13-Nov,,HSBC,Morgan Stanley,1
+9100116092,Amy Acker,100016093,PO BOX 153,BIN 5517161,SWIPED MACHINE READ,Shell,13-Nov,5,600,14-Nov,,TD Bank,U.S. Bancorp,0
+9100116092,Jean Acker,100016093,730 CORRAL DR,BIN 5517168,MANUAL ENTRY,BP,15-Nov,7,840,16-Nov,,State Street,Citizens Bank,0
+9100116092,Bettye Ackerman,100016093,3163 GLENDAM DR,BIN 551127,SWIPED MACHINE READ,Target,2-Nov,335,40200,5-Nov,,BB&T,USAA,1
+9100116092,Leslie Ackerman,100016093,689 CLARKSON AVE APT B,BIN 541570,Unknown or terminal not used,BJS,4-Nov,5,38040,5-Nov,,SunTrust Bank,Fifth Third Bank,1
+9100116092,Anabelle Acosta,100016093,PO BOX 6286,BIN 541614,Manual key entry,MBTA,6-Nov,133,600,8-Nov,,Charles Schwab,BMO Harris Bank,0
+9100116092,Acquanetta,100016093,524 JACOBS PL,BIN 541799,Mag stripe read ? CVV checking not possible,Amazon.com,8-Nov,133,840,9-Nov,,American Express,Santander Bank,0
+9100116092,Ava Acres,100016093,53 POPPY CT,BIN 541821,Barcode read,Uber,10-Nov,133,40200,11-Nov,,Ally Financial,Regions Bank,0
+9100116092,Isabella Acres,100016093,302 CASTLE RIDGE DR,BIN 541833,Unknown,Draftkings,12-Nov,133,38040,15-Nov,,RBC Bank,M&T Bank,0
+9100116092,Tatum Adair,100016093,PO BOX 1566,BIN 541835,MANUAL ENTRY,Nightlife,14-Nov,133,600,15-Nov,,Citizens Bank,Northern Trust,0
+9100116092,Kathryn Adams Doty,100016093,2012 CAMBRIDGE DR,BIN 541837,SWIPED MACHINE READ,Target,16-Nov,133,840,18-Nov,,USAA,Union Bank,0
+9100116092,Amy Adams,100016093,PO BOX 45082,BIN 541858,MANUAL ENTRY,BJS,7-Nov,133,40200,8-Nov,,Fifth Third Bank,KeyCorp,1
+9100116092,Beverly Adams,100016093,PO BOX 65892,BIN 541860,SWIPED MACHINE READ,Shell,9-Nov,133,38040,10-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100116092,Brooke Adams (actress),100016093,21 CEDAR CREST DR,BIN 546191,Unknown or terminal not used,Flowers.com,11-Nov,133,40320,14-Nov,,Santander Bank,Bank of New York Mellon,1
+9100116092,Catlin Adams,100016093,1507 ARIZONA ST,BIN 551067,Manual key entry,Walmart,2-Nov,133,600,3-Nov,,Regions Bank,PNC Bank,0
+9100116092,Dorothy Adams,100016093,1049 E COLUMBINE AVE,BIN 551216,Mag stripe read ? CVV checking not possible,Target,4-Nov,133,840,6-Nov,,M&T Bank,Capital One,0
+9100116092,Eadie Adams,100016093,215 VISTA HILLS DR,BIN 551223,Barcode read,BJS,6-Nov,133,40200,7-Nov,,Northern Trust,HSBC,1
+9100116092,Freya Adams,100016093,PO BOX 1785,BIN 551224,Unknown,Shell,8-Nov,317,38040,9-Nov,,Union Bank,TD Bank,0
+9100116092,Jane Adams (actress),100016093,290 MOUNTAIN VIEW ST,BIN 551225,MANUAL ENTRY,BP,5-Nov,75,40320,8-Nov,,KeyCorp,State Street,0
+9100116092,Joey Lauren Adams,100016093,PO BOX 772098,BIN 551226,SWIPED MACHINE READ,Target,7-Nov,216,600,8-Nov,,MSN Banknorth,BB&T,0
+9100116092,Julie Adams,100016093,PO BOX 1545007,BIN 551227,MANUAL ENTRY,BJS,9-Nov,75,840,11-Nov,,JPMorgan Chase,SunTrust Bank,1
+9100116092,Lillian Adams,100016093,2 CHARTER OAK AVE UNIT 1,BIN 551228,SWIPED MACHINE READ,MBTA,1-Nov,75,40200,2-Nov,,Bank of America,Charles Schwab,0
+9100116092,Marla Adams,100016093,537 TAMARACK DR UNIT 403,BIN 551051,Unknown or terminal not used,Amazon.com,3-Nov,5,38040,4-Nov,,Wells Fargo,American Express,0
+9100116092,Mary Kay Adams,100016093,320 SAGEMONT CIR,BIN 5636246,Manual key entry,Uber,11-Nov,7,40320,14-Nov,,Citigroup,Ally Financial,0
+9100116092,Neile Adams,100016093,1860 GRACELAND DR,BIN 562694,Mag stripe read ? CVV checking not possible,Draftkings,13-Nov,335,40200,14-Nov,,Goldman Sachs,RBC Bank,0
+9100116092,Poni Adams,100016093,403 BALLARD AVE,BIN 563127,Barcode read,Nightlife,15-Nov,5,600,17-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Stella Adams,100016093,PO BOX 8801,BIN 563146,Unknown,Target,2-Nov,7,840,3-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Yolanda Adams,100016093,640 1/2 IAN CT,BIN 5631466,MANUAL ENTRY,BJS,4-Nov,317,38040,5-Nov,,Bank of New York Mellon,Wells Fargo,1
+9100116092,Calpernia Addams,100016093,2380 VAN GORDON ST,BIN 578144,SWIPED MACHINE READ,Shell,6-Nov,5,40200,9-Nov,,PNC Bank,Citigroup,0
+9100116092,Nancy Addison,100016093,921 MAIN ST,BIN 5864226,MANUAL ENTRY,Flowers.com,8-Nov,7,600,9-Nov,,Capital One,Goldman Sachs,1
+9100116092,Alexandra Adi,100016093,9448 6097 RD,BIN 587376,SWIPED MACHINE READ,Walmart,10-Nov,335,840,12-Nov,,HSBC,Morgan Stanley,0
+9100116092,Celia Adler,100016093,410 AABC STE 1A,BIN 5873761,Unknown or terminal not used,Target,12-Nov,5,38040,13-Nov,,TD Bank,U.S. Bancorp,0
+9100116092,Joanna P. Adler,100016093,PO BOX 6595,BIN 5887536,Manual key entry,BJS,14-Nov,7,40200,15-Nov,,State Street,Citizens Bank,1
+9100116092,Sara Adler,100016093,PO BOX 6075,BIN 589204,Mag stripe read ? CVV checking not possible,Shell,16-Nov,317,600,19-Nov,,BB&T,USAA,1
+9100116092,Stella Adler,100016093,PO BOX 916,BIN 589714,Barcode read,BP,7-Nov,5,840,8-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100116092,Pamela Adlon,100016093,PO BOX 2200,BIN 789110,Unknown,Target,9-Nov,7,38040,11-Nov,,Charles Schwab,BMO Harris Bank,0
+9100116092,Iris Adrian,100016093,PO BOX 773,BIN 444810,MANUAL ENTRY,BJS,11-Nov,335,40200,12-Nov,,American Express,Santander Bank,1
+9100116092,Uzo Aduba,100016093,1503 COUNTY RD 245,BIN 438511,SWIPED MACHINE READ,MBTA,2-Nov,5,15960,3-Nov,,Ally Financial,Regions Bank,0
+9100116092,Aarthi Agarwal,100016093,PO BOX 3496,BIN 483725,MANUAL ENTRY,Amazon.com,4-Nov,133,15960,7-Nov,,RBC Bank,M&T Bank,0
+9100116092,Shohreh Aghdashloo,100016093,PO BOX 4219,BIN 483726,SWIPED MACHINE READ,Uber,6-Nov,133,15960,7-Nov,,Citizens Bank,Northern Trust,0
+9100116092,Dianna Agron,100016093,5125 FRYING PAN RD,BIN 487307,Unknown or terminal not used,Draftkings,8-Nov,133,15960,10-Nov,,USAA,Union Bank,0
+9100116092,Christina Aguilera,100016093,117 W PARK ST,BIN 519385,Manual key entry,Nightlife,5-Nov,133,15960,6-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,Lassie Lou Ahern,100016093,PO BOX 3526,BIN 519386,Mag stripe read ? CVV checking not possible,Target,7-Nov,133,15960,8-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100116092,Peggy Ahern,100016093,712 E 5TH ST,BIN 519401,Barcode read,BJS,9-Nov,133,15960,12-Nov,,Santander Bank,Bank of New York Mellon,1
+9100116092,Rita Rani Ahuja,100016093,PO BOX 1556,BIN 519402,Unknown,Shell,1-Nov,133,15960,2-Nov,,Regions Bank,PNC Bank,0
+9100116092,Mary Ainslee,100016093,PO BOX 1619,BIN 519404,MANUAL ENTRY,Flowers.com,3-Nov,133,15960,5-Nov,,M&T Bank,Capital One,1
+9100116092,Helen Ainsworth,100016093,742 ROUTE GOURDON,BIN 519405,SWIPED MACHINE READ,Walmart,11-Nov,133,15960,12-Nov,,Northern Trust,HSBC,0
+9100116092,Lexi Ainsworth,100016093,1557 SHADOW RUN COURT #D301,BIN 519406,MANUAL ENTRY,Target,13-Nov,133,15960,14-Nov,,Union Bank,TD Bank,0
+9100116092,Soumaya Akaaboune,100016093,654 1/2 MAIN AVE,BIN 519407,SWIPED MACHINE READ,BJS,15-Nov,133,15960,18-Nov,,KeyCorp,State Street,1
+9100116092,Karen Akers,100016093,PO BOX 6065,BIN 519408,Unknown or terminal not used,Shell,2-Nov,133,600,3-Nov,,MSN Banknorth,BB&T,0
+9100116092,Desiree Akhavan,100016093,32852 S ELK DR,BIN 514697,Manual key entry,BP,4-Nov,133,840,6-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100116092,Shuko Akune,100016093,PO BOX 1770,BIN 527833,Mag stripe read ? CVV checking not possible,Target,6-Nov,133,40200,7-Nov,,Bank of America,Charles Schwab,0
+9100116092,Mackenzie Aladjem,100016093,PO BOX 6993,BIN 527838,Barcode read,BJS,8-Nov,133,40320,9-Nov,,Wells Fargo,American Express,1
+9100116092,Lori Alan,100016093,PO BOX 1151,BIN 527839,Unknown,MBTA,10-Nov,133,38040,13-Nov,,Citigroup,Ally Financial,0
+9100116092,Morjana Alaoui,100016093,2503 CISAR CT UNIT C1,BIN 527841,MANUAL ENTRY,Amazon.com,12-Nov,133,600,13-Nov,,Goldman Sachs,RBC Bank,0
+9100116092,Jessica Alba,100016093,PO BOX 6186,BIN 527842,SWIPED MACHINE READ,Uber,14-Nov,133,840,16-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Maria Alba,100016093,228 MESA GRANDE DR,BIN 527844,MANUAL ENTRY,Draftkings,16-Nov,317,40200,17-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Mabel Albertson,100016093,253 SHOOTER LN,BIN 527845,SWIPED MACHINE READ,Nightlife,7-Nov,75,40320,8-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100116092,Tessa Albertson,100016093,381 STAGECOACH LN,BIN 527846,Unknown or terminal not used,Target,9-Nov,216,38040,12-Nov,,PNC Bank,Citigroup,0
+9100116092,Lola Albright,100016093,7404 COUNTY ROAD 312,BIN 531880,Manual key entry,BJS,11-Nov,75,600,12-Nov,,Capital One,Goldman Sachs,1
+9100116092,Beatrice Alda,100016093,142 COMMONWEALTH AVE #C35,BIN 527822,Mag stripe read ? CVV checking not possible,Shell,2-Nov,75,840,4-Nov,,HSBC,Morgan Stanley,0
+9100116092,Elizabeth Alda,100016093,2279 LONDON WAY,BIN 500098,Barcode read,Flowers.com,4-Nov,5,40200,5-Nov,,TD Bank,U.S. Bancorp,1
+9100116092,Rutanya Alda,100016093,1727 HOWARD AVE UNIT B,BIN 433766,Unknown,Walmart,6-Nov,7,40320,7-Nov,,State Street,Citizens Bank,0
+9100116092,Mary Alden,100016093,1803 W 2ND ST TRLR 6,BIN 435530,MANUAL ENTRY,Target,8-Nov,335,38040,11-Nov,,BB&T,USAA,1
+9100116092,Mari Aldon,100016093,138 JUNIPER TRL,BIN 407309,SWIPED MACHINE READ,BJS,5-Nov,5,600,6-Nov,,SunTrust Bank,Fifth Third Bank,1
+9100116092,Kay Aldridge,100016093,PO BOX 1417,BIN 407310,MANUAL ENTRY,Shell,7-Nov,7,840,9-Nov,,Charles Schwab,BMO Harris Bank,0
+9100116092,Raquel Alessi,100016093,PO BOX 774261,BIN 407311,SWIPED MACHINE READ,BP,9-Nov,317,40200,10-Nov,,American Express,Santander Bank,0
+9100116092,Alex ter Avest,100016093,PO BOX 5655,BIN 589203,Unknown or terminal not used,Target,1-Nov,5,40320,2-Nov,,Ally Financial,Regions Bank,0
+9100116092,Denise Alexander,100016093,322 BIG PINON DR,BIN 5892031,Manual key entry,BJS,3-Nov,7,38040,6-Nov,,RBC Bank,M&T Bank,1
+9100116092,Jaimie Alexander,100016093,PO BOX 336,BIN 586239,Mag stripe read ? CVV checking not possible,MBTA,11-Nov,335,600,12-Nov,,Citizens Bank,Northern Trust,0
+9100116092,Jane Alexander,100016093,16032 6250 RD,BIN 563143,Barcode read,Amazon.com,13-Nov,5,840,15-Nov,,USAA,Union Bank,0
+9100116092,Katharine Alexander,100016093,630 HUNTER CREEK DR,BIN 563222,Unknown,Uber,15-Nov,7,40200,16-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,Khandi Alexander,100016093,443 N 8TH ST,BIN 563403,MANUAL ENTRY,Draftkings,2-Nov,317,40320,3-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100116092,Olivia Alexander,100016093,3150 SKYLARK CT,BIN 560671,SWIPED MACHINE READ,Nightlife,4-Nov,5,38040,7-Nov,,Santander Bank,Bank of New York Mellon,0
+9100116092,Sasha Alexander,100016093,604 SLOAN ST,BIN 571070,MANUAL ENTRY,Target,6-Nov,7,600,7-Nov,,Regions Bank,PNC Bank,0
+9100116092,Gloria Alexandra,100016093,PO BOX 507,BIN 550861,SWIPED MACHINE READ,BJS,8-Nov,335,840,10-Nov,,M&T Bank,Capital One,1
+9100116092,Tiana Alexandra,100016093,608 25 1/2 RD UNIT 5,BIN 546138,Unknown or terminal not used,Shell,10-Nov,5,40200,11-Nov,,Northern Trust,HSBC,0
+9100116092,Sadie Alexandru,100016093,2327 INTERSTATE AVE,BIN 5461380431,Manual key entry,Flowers.com,12-Nov,133,40320,13-Nov,,Union Bank,TD Bank,1
+9100116092,Marnie Alexenburg,100016093,36908 GRANDVIEW MESA RD,BIN 5461381,Mag stripe read ? CVV checking not possible,Walmart,14-Nov,133,38040,17-Nov,,KeyCorp,State Street,0
+9100116092,Kristian Alfonso,100016093,1802 MAIN ST APT C4,BIN 542964,Barcode read,Target,16-Nov,133,600,17-Nov,,MSN Banknorth,BB&T,0
+9100116092,Brittney Alger,100016093,1974 W 3RD AVE UNIT A,BIN 54296406,Unknown,BJS,7-Nov,133,840,9-Nov,,JPMorgan Chase,SunTrust Bank,1
+9100116092,Khalilah Ali,100016093,PO BOX 3542,BIN 542964061,MANUAL ENTRY,Shell,9-Nov,133,40200,10-Nov,,Bank of America,Charles Schwab,0
+9100116092,Tatyana Ali,100016093,PO BOX 4764,BIN 557199,SWIPED MACHINE READ,BP,11-Nov,133,40320,12-Nov,,Wells Fargo,American Express,0
+9100116092,Veronica Porché Ali,100016093,647 FOX CT,BIN 55719906,MANUAL ENTRY,Target,2-Nov,317,38040,5-Nov,,Citigroup,Ally Financial,0
+9100116092,Mary Alice,100016093,PO BOX 40,BIN 557199061,SWIPED MACHINE READ,BJS,4-Nov,75,40200,5-Nov,,Goldman Sachs,RBC Bank,1
+9100116092,Ana Alicia,100016093,PO BOX 554,BIN 427026,Unknown or terminal not used,MBTA,6-Nov,216,600,8-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Bianca Allaine,100016093,265 MESA ENCANTADA,BIN 441904,Manual key entry,Amazon.com,8-Nov,75,840,9-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Ava Allan,100016093,PO BOX 1697,BIN 415881,Mag stripe read ? CVV checking not possible,Uber,5-Nov,75,600,6-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100116092,Maud Allan,100016093,PO BOX 2328,BIN 438490,Barcode read,Draftkings,7-Nov,5,840,10-Nov,,PNC Bank,Citigroup,0
+9100116092,Louise Allbritton,100016093,617 CHEYENNE AVE,BIN 563594,Unknown,Nightlife,9-Nov,7,40200,10-Nov,,Capital One,Goldman Sachs,0
+9100116092,Gia Allemand,100016093,2942 N VIEW DR,BIN 563167,MANUAL ENTRY,Target,1-Nov,335,40320,3-Nov,,HSBC,Morgan Stanley,0
+9100116092,Aleisha Allen,100016093,2539 BRENNA WAY,BIN 438568,SWIPED MACHINE READ,BJS,3-Nov,5,38040,4-Nov,,TD Bank,U.S. Bancorp,1
+9100116092,Amy Allen,100016093,619 E 11TH ST,BIN 415092,MANUAL ENTRY,Shell,11-Nov,7,600,12-Nov,,State Street,Citizens Bank,0
+9100116092,Barbara Jo Allen,100016093,27655 HIGHWAY 6 TRLR 1803,BIN 56356100,SWIPED MACHINE READ,Flowers.com,13-Nov,317,840,16-Nov,,BB&T,USAA,1
+9100116092,Billie Allen,100016093,PO BOX 5067,BIN 563398,Unknown or terminal not used,Walmart,15-Nov,5,40200,16-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100116092,Christa B. Allen,100016093,PO BOX 485,BIN 436167,Manual key entry,Target,2-Nov,7,40320,4-Nov,,Charles Schwab,BMO Harris Bank,0
+9100116092,Crystal Allen,100016093,PO BOX 135,BIN 453724,Mag stripe read ? CVV checking not possible,BJS,4-Nov,335,38040,5-Nov,,American Express,Santander Bank,1
+9100116092,Debbie Allen,100016093,58 N PAINTED HORSE CIR,BIN 4537247,Barcode read,Shell,6-Nov,5,600,7-Nov,,Ally Financial,Regions Bank,0
+9100116092,Dorothy Allen,100016093,330 E 1ST ST,BIN 403136,Unknown,BP,8-Nov,7,840,11-Nov,,RBC Bank,M&T Bank,0
+9100116092,Elizabeth Allen (actress),100016093,PO BOX 1716,BIN 4031367,MANUAL ENTRY,Target,10-Nov,317,40200,11-Nov,,Citizens Bank,Northern Trust,0
+9100116092,Gracie Allen,100016093,2645 CHESTNUT DR,BIN 565174,SWIPED MACHINE READ,BJS,12-Nov,5,38040,14-Nov,,USAA,Union Bank,1
+9100116092,India Allen,100016093,PO BOX 771345,BIN 563375,MANUAL ENTRY,MBTA,14-Nov,7,600,15-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,Jo Harvey Allen,100016093,2143 DEVON ST,BIN 480371,SWIPED MACHINE READ,Amazon.com,16-Nov,335,840,17-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100116092,Joan Allen,100016093,287 HOLLY LN,BIN 470721,Unknown or terminal not used,Uber,7-Nov,5,40200,10-Nov,,Santander Bank,Bank of New York Mellon,0
+9100116092,Jonelle Allen,100016093,1122 E 3RD AVE,BIN 500222,Manual key entry,Draftkings,9-Nov,133,38040,10-Nov,,Regions Bank,PNC Bank,0
+9100116092,Judith Allen,100016093,714 BURNING MOUNTAIN AVE,BIN 439205,Mag stripe read ? CVV checking not possible,Nightlife,11-Nov,133,600,13-Nov,,M&T Bank,Capital One,0
+9100116092,Karen Allen,100016093,45 SPRUCE CT,BIN 407269,Barcode read,Target,2-Nov,133,840,3-Nov,,Northern Trust,HSBC,0
+9100116092,Krista Allen,100016093,2131 MONARCH PT,BIN 501780,Unknown,BJS,4-Nov,133,40200,5-Nov,,Union Bank,TD Bank,1
+9100116092,Laura Allen,100016093,PO BOX 11719,BIN 503279,MANUAL ENTRY,Shell,6-Nov,133,38040,9-Nov,,KeyCorp,State Street,0
+9100116092,Maude Allen,100016093,PO BOX 16258,BIN 510695,SWIPED MACHINE READ,Flowers.com,8-Nov,133,40320,9-Nov,,MSN Banknorth,BB&T,1
+9100116092,Nancy Allen (actress),100016093,3526 COUNTY ROAD 103,BIN 557140,MANUAL ENTRY,Walmart,5-Nov,133,600,7-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100116092,Phyllis Allen,100016093,4382 COUNTY ROAD 331,BIN 585703,SWIPED MACHINE READ,Target,7-Nov,133,840,8-Nov,,Bank of America,Charles Schwab,0
+9100116092,Rae Allen,100016093,26453 TX HWY 77W,BIN 587538,Unknown or terminal not used,BJS,9-Nov,133,40200,10-Nov,,Wells Fargo,American Express,1
+9100116092,Sandy Allen,100016093,PO BOX 3758,BIN 585691,Manual key entry,Shell,1-Nov,133,38040,4-Nov,,Citigroup,Ally Financial,0
+9100116092,Sasha Allen,100016093,203 14TH ST UNIT 320,BIN 514419,Mag stripe read ? CVV checking not possible,BP,3-Nov,133,40320,4-Nov,,Goldman Sachs,RBC Bank,0
+9100116092,Sheila Matthews Allen,100016093,PO BOX 3361,BIN 503993,Barcode read,Target,11-Nov,133,600,13-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Sian Barbara Allen,100016093,345 ELM AVE,BIN 503045,Unknown,BJS,13-Nov,133,840,14-Nov,,U.S. Bancorp,Bank of America,1
+9100116092,Tessa Allen,100016093,532 MAIN AVE,BIN 537199,MANUAL ENTRY,MBTA,15-Nov,133,40200,16-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100116092,Kirstie Alley,100016093,338 PARK AVE,BIN 539790,SWIPED MACHINE READ,Amazon.com,2-Nov,133,38040,5-Nov,,PNC Bank,Citigroup,0
+9100116092,Sara Allgood,100016093,PO BOX 3944,BIN 470738,MANUAL ENTRY,Uber,4-Nov,133,40320,5-Nov,,Capital One,Goldman Sachs,0
+9100116092,Monica Allison,100016093,106 LAKESIDE CT,BIN 435516,SWIPED MACHINE READ,Draftkings,6-Nov,133,40200,8-Nov,,HSBC,Morgan Stanley,0
+9100116092,Elvia Allman,100016093,PO BOX 6960,BIN 587512,Unknown or terminal not used,Nightlife,8-Nov,133,600,9-Nov,,TD Bank,U.S. Bancorp,0
+9100116092,Jamie Anne Allman,100016093,2507 GLEN VIEW DR,BIN 577811,Manual key entry,Target,10-Nov,317,840,11-Nov,,State Street,Citizens Bank,0
+9100116092,Astrid Allwyn,100016093,1172 COUNTY ROAD 8B,BIN 577811333,Mag stripe read ? CVV checking not possible,BJS,12-Nov,75,38040,15-Nov,,BB&T,USAA,1
+9100116092,June Allyson,100016093,691 PONDEROSA DR,BIN 468254,Barcode read,Shell,14-Nov,216,40200,15-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100116092,Daniella Alonso,100016093,21348 LANNING RD,BIN 46825403,Unknown,Flowers.com,16-Nov,75,600,18-Nov,,Charles Schwab,BMO Harris Bank,1
+9100116092,Corinne Alphen,100016093,1331 PITKIN AVE APT 14,BIN 46825405,MANUAL ENTRY,Walmart,7-Nov,75,840,8-Nov,,American Express,Santander Bank,0
+9100116092,Carol Alt,100016093,5035 COUNTY ROAD 335 #259,BIN 46825406,SWIPED MACHINE READ,Target,9-Nov,5,600,10-Nov,,Ally Financial,Regions Bank,0
+9100116092,Summer Altice,100016093,626 LARIAT LOOP,BIN 46825407,MANUAL ENTRY,BJS,11-Nov,7,840,14-Nov,,RBC Bank,M&T Bank,1
+9100116092,Angela Alvarado,100016093,51 BOBCAT LN,BIN 477440,SWIPED MACHINE READ,Shell,2-Nov,335,40200,3-Nov,,Citizens Bank,Northern Trust,0
+9100116092,Trini Alvarado,100016093,PO BOX 47,BIN 489265,Unknown or terminal not used,BP,4-Nov,5,40320,6-Nov,,USAA,Union Bank,0
+9100116092,Monique Alvarez,100016093,551 PRIMAVERA ST,BIN 504351,Manual key entry,Target,6-Nov,7,38040,7-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,Betty Amann,100016093,1721 JUNIPER ST,BIN 504847,Mag stripe read ? CVV checking not possible,BJS,8-Nov,317,600,9-Nov,,BMO Harris Bank,MSN Banknorth,1
+9100116092,Erika Amato,100016093,254 WREN CT,BIN 485082,Barcode read,MBTA,5-Nov,5,840,8-Nov,,Santander Bank,Bank of New York Mellon,0
+9100116092,Kimberly Amato,100016093,2602 S OAK HURST CT APT 20,BIN 477401,Unknown,Amazon.com,7-Nov,7,40200,8-Nov,,Regions Bank,PNC Bank,0
+9100116092,Lauren Ambrose,100016093,PO BOX 217,BIN 447684,MANUAL ENTRY,Uber,9-Nov,335,40320,11-Nov,,M&T Bank,Capital One,0
+9100116092,Tangie Ambrose,100016093,251 BLUE SPRUCE DR,BIN 424765,SWIPED MACHINE READ,Draftkings,1-Nov,5,38040,2-Nov,,Northern Trust,HSBC,0
+9100116092,Cindy Ambuehl,100016093,21850 MYERS RD,BIN 577417,MANUAL ENTRY,Nightlife,3-Nov,7,600,4-Nov,,Union Bank,TD Bank,0
+9100116092,Amerie,100016093,20543 TULIP CIR,BIN 579153,SWIPED MACHINE READ,Target,11-Nov,317,840,14-Nov,,KeyCorp,State Street,0
+9100116092,Adrienne Ames,100016093,307 SOCIETY DR APT C5,BIN 428033,Unknown or terminal not used,BJS,13-Nov,5,40200,14-Nov,,MSN Banknorth,BB&T,1
+9100116092,Ramsay Ames,100016093,PO BOX 789492,BIN 460614,Manual key entry,Shell,15-Nov,7,40320,17-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100116092,Rosemary Ames,100016093,PO BOX 1054789,BIN 502550,Mag stripe read ? CVV checking not possible,Flowers.com,2-Nov,335,38040,3-Nov,,Bank of America,Charles Schwab,1
+9100116092,Mädchen Amick,100016093,4572 I-70 FRONTAGE RD,BIN 526130,Barcode read,Walmart,4-Nov,5,600,5-Nov,,Wells Fargo,American Express,0
+9100116092,Suzy Amis Cameron,100016093,3281 GROVE ST APT 18,BIN 551078,Unknown,Target,6-Nov,317,840,9-Nov,,Citigroup,Ally Financial,0
+9100116092,Charlene Amoia,100016093,562 RIVER VIEW DR UNIT 707,BIN 558166,MANUAL ENTRY,BJS,8-Nov,75,40200,9-Nov,,Goldman Sachs,RBC Bank,1
+9100116092,Elizabeth Amsden,100016093,PO BOX 13185,BIN 553708,SWIPED MACHINE READ,Shell,10-Nov,216,40320,12-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Eva Amurri,100016093,PO BOX 16422,BIN 511785,MANUAL ENTRY,BP,12-Nov,75,38040,13-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Kristina Anapau,100016093,899 VITOS WAY,BIN 453536,SWIPED MACHINE READ,Target,14-Nov,75,600,15-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100116092,Maureen Anderman,100016093,739 35 6/10 RD,BIN 445183,Unknown or terminal not used,BJS,16-Nov,5,840,19-Nov,,PNC Bank,Citigroup,1
+9100116092,Andrea Anders,100016093,1250 SUNSET DR,BIN 42655405,Manual key entry,MBTA,7-Nov,7,40200,8-Nov,,Capital One,Goldman Sachs,0
+9100116092,Luana Anders,100016093,1433 MANCHESTER DR,BIN 577177,Mag stripe read ? CVV checking not possible,Amazon.com,9-Nov,335,40320,11-Nov,,HSBC,Morgan Stanley,0
+9100116092,Merry Anders,100016093,161 LITTLE ELK CREEK AVE,BIN 558165,Barcode read,Uber,11-Nov,5,38040,12-Nov,,TD Bank,U.S. Bancorp,0
+9100116092,Bridgette Andersen,100016093,BETTINA BRUSCH-STRECHER,BIN 511784,Unknown,Draftkings,2-Nov,7,600,3-Nov,,State Street,Citizens Bank,0
+9100116092,Audrey Marie Anderson,100016093,PO BOX 4093,BIN 532609,MANUAL ENTRY,Nightlife,4-Nov,317,840,7-Nov,,BB&T,USAA,1
+9100116092,Barbara Anderson (actress),100016093,233 HARRIS ST,BIN 468258,SWIPED MACHINE READ,Target,6-Nov,5,40200,7-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100116092,Camille Anderson,100016093,1295 BEDROCK CIR,BIN 424649,MANUAL ENTRY,BJS,8-Nov,7,40320,10-Nov,,Charles Schwab,BMO Harris Bank,1
+9100116092,Donna Anderson,100016093,PO BOX 21827,BIN 424650,SWIPED MACHINE READ,Shell,5-Nov,335,38040,6-Nov,,American Express,Santander Bank,0
+9100116092,Dusty Anderson,100016093,PO BOX 27211,BIN 408817,Unknown or terminal not used,Flowers.com,7-Nov,5,600,8-Nov,,Ally Financial,Regions Bank,1
+9100116092,Elaine Anderson Steinbeck,100016093,3724 LONE TREE LN,BIN 579289,Manual key entry,Walmart,9-Nov,7,840,12-Nov,,RBC Bank,M&T Bank,0
+9100116092,Ella Anderson,100016093,1466 CONESTOGA CIR,BIN 602936,Mag stripe read ? CVV checking not possible,Target,1-Nov,317,40200,2-Nov,,Citizens Bank,Northern Trust,0
+9100116092,Erika Anderson,100016093,3128 GRAND AVE,BIN 577439,Barcode read,BJS,3-Nov,5,40320,5-Nov,,USAA,Union Bank,1
+9100116092,Eunice Anderson,100016093,129 CRAWFORD LN APT 3,BIN 562062,Unknown,Shell,11-Nov,7,38040,12-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,Nicole Gale Anderson,100016093,PO BOX 8200,BIN 5620620,MANUAL ENTRY,BP,13-Nov,335,40200,14-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100116092,Gillian Anderson,100016093,324 LIGHT HILL RD,BIN 56206200,SWIPED MACHINE READ,Target,15-Nov,5,600,18-Nov,,Santander Bank,Bank of New York Mellon,0
+9100116092,Jacqueline Anderson,100016093,1340 19 RD,BIN 562067,MANUAL ENTRY,BJS,2-Nov,133,840,3-Nov,,Regions Bank,PNC Bank,1
+9100116092,Jo Anderson,100016093,140 CIMARRON DR,BIN 56206700,SWIPED MACHINE READ,MBTA,4-Nov,133,600,6-Nov,,M&T Bank,Capital One,0
+9100116092,Loni Anderson,100016093,PO BOX 6193,BIN 486110,Unknown or terminal not used,Amazon.com,6-Nov,133,840,7-Nov,,Northern Trust,HSBC,0
+9100116092,Beverly Aadland,100016093,1634 18 RD,BIN 486113,Manual key entry,Uber,8-Nov,133,40200,9-Nov,,Union Bank,TD Bank,0
+9100116092,Mariann Aalda,100016093,109 SERNANDINA ST,BIN 452387,Mag stripe read ? CVV checking not possible,Draftkings,10-Nov,133,40320,13-Nov,,KeyCorp,State Street,0
+9100116092,Aaliyah,100016093,PO BOX 109,BIN 452388,Barcode read,Nightlife,12-Nov,133,38040,13-Nov,,MSN Banknorth,BB&T,0
+9100116092,Angela Aames,100016093,PO BOX 2324,BIN 452389,Unknown,Target,14-Nov,133,600,16-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100116092,Caroline Aaron,100016093,PO BOX 1484,BIN 446103,MANUAL ENTRY,BJS,16-Nov,317,840,17-Nov,,Bank of America,Charles Schwab,1
+9100116092,Dorothy Abbott,100016093,115 RIVERDOWN DR,BIN 441268,SWIPED MACHINE READ,Shell,7-Nov,75,40200,8-Nov,,Wells Fargo,American Express,0
+9100116092,Diahnne Abbott,100016093,27655 HIGHWAY 6 TRLR 1704,BIN 566786,MANUAL ENTRY,Flowers.com,9-Nov,216,40320,12-Nov,,Citigroup,Ally Financial,1
+9100116092,Rose Abdoo,100016093,PO BOX 2252,BIN 562068,SWIPED MACHINE READ,Walmart,11-Nov,75,38040,12-Nov,,Goldman Sachs,RBC Bank,0
+9100116092,Paula Abdul,100016093,PO BOX 2685,BIN 482155,Unknown or terminal not used,Target,2-Nov,75,600,4-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Rakefet Abergel,100016093,547 1ST AVE APT 5H,BIN 466002,Manual key entry,BJS,4-Nov,317,840,5-Nov,,U.S. Bancorp,Bank of America,1
+9100116092,Betty Aberlin,100016093,177 COUNTY ROAD 135,BIN 461182,Mag stripe read ? CVV checking not possible,Shell,6-Nov,75,40200,7-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100116092,Donzaleigh Abernathy,100016093,137 CEDAR RIDGE WAY,BIN 562440,Barcode read,BP,8-Nov,216,38040,11-Nov,,PNC Bank,Citigroup,0
+9100116092,Whitney Able,100016093,2704 H RD,BIN 562352,Unknown,Target,5-Nov,75,600,6-Nov,,Capital One,Goldman Sachs,0
+9100116092,Amy Acker,100016093,34653 HIGHWAY 6,BIN 579465,MANUAL ENTRY,BJS,7-Nov,75,840,9-Nov,,HSBC,Morgan Stanley,1
+9100116092,Jean Acker,100016093,PO BOX 772475,BIN 461183,SWIPED MACHINE READ,MBTA,9-Nov,5,40200,10-Nov,,TD Bank,U.S. Bancorp,0
+9100116092,Bettye Ackerman,100016093,666 SO ANNABELLE CT,BIN 461184,MANUAL ENTRY,Amazon.com,1-Nov,7,38040,2-Nov,,State Street,Citizens Bank,0
+9100116092,Leslie Ackerman,100016093,2609 GREENCLIFF DR,BIN 461186,SWIPED MACHINE READ,Uber,3-Nov,335,600,6-Nov,,BB&T,USAA,1
+9100116092,Anabelle Acosta,100016093,34913 PRONGHORN DR,BIN 424770,Unknown or terminal not used,Draftkings,11-Nov,5,840,12-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100116092,Acquanetta,100016093,PO BOX 4082,BIN 429229,Manual key entry,Nightlife,13-Nov,317,40200,15-Nov,,Charles Schwab,BMO Harris Bank,0
+9100116092,Ava Acres,100016093,12112 RCR 69,BIN 485560,Mag stripe read ? CVV checking not possible,Target,15-Nov,75,38040,16-Nov,,American Express,Santander Bank,0
+9100116092,Isabella Acres,100016093,1148 E 2ND AVE APT 7,BIN 5792749,Barcode read,BJS,2-Nov,216,600,3-Nov,,Ally Financial,Regions Bank,1
+9100116092,Tatum Adair,100016093,1437 AIRPORT ROAD,BIN 577781,Unknown,Shell,4-Nov,75,840,7-Nov,,RBC Bank,M&T Bank,0
+9100116092,Kathryn Adams Doty,100016093,PO BOX 584,BIN 571284,MANUAL ENTRY,Flowers.com,6-Nov,75,40200,7-Nov,,Citizens Bank,Northern Trust,1
+9100116092,Amy Adams,100016093,3091 PINYON PL,BIN 557260,SWIPED MACHINE READ,Walmart,8-Nov,5,40320,10-Nov,,USAA,Union Bank,0
+9100116092,Beverly Adams,100016093,1302 N 21ST ST APT 306,BIN 546082,MANUAL ENTRY,Target,10-Nov,7,38040,11-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,Brooke Adams (actress),100016093,PO BOX 5688,BIN 477554,SWIPED MACHINE READ,BJS,12-Nov,335,600,13-Nov,,BMO Harris Bank,MSN Banknorth,1
+9100116092,Catlin Adams,100016093,53 W DRY CREEK CT,BIN 47755497,Unknown or terminal not used,Shell,14-Nov,5,840,17-Nov,,Santander Bank,Bank of New York Mellon,0
+9100116092,Dorothy Adams,100016093,PO BOX 2912,BIN 477857,Manual key entry,BP,16-Nov,7,40200,17-Nov,,Regions Bank,PNC Bank,0
+9100116092,Eadie Adams,100016093,PO BOX 6463,BIN 47785744,Mag stripe read ? CVV checking not possible,Target,7-Nov,317,40320,9-Nov,,M&T Bank,Capital One,0
+9100116092,Freya Adams,100016093,PO BOX 348,BIN 47785753,Barcode read,BJS,9-Nov,5,38040,10-Nov,,Northern Trust,HSBC,1
+9100116092,Jane Adams (actress),100016093,1450 ELM AVE,BIN 47785797,Unknown,MBTA,11-Nov,317,600,12-Nov,,Union Bank,TD Bank,0
+9100116092,Joey Lauren Adams,100016093,304 MEADOWOOD DR APT G1,BIN 477857999,MANUAL ENTRY,Amazon.com,2-Nov,75,840,5-Nov,,KeyCorp,State Street,0
+9100116092,Julie Adams,100016093,733 STORM KING CIR,BIN 536006,SWIPED MACHINE READ,Uber,4-Nov,216,40200,5-Nov,,MSN Banknorth,BB&T,0
+9100116092,Lillian Adams,100016093,131 NIMBUS DR,BIN 511817,MANUAL ENTRY,Draftkings,6-Nov,75,40320,8-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100116092,Marla Adams,100016093,PO BOX 154,BIN 511174,SWIPED MACHINE READ,Nightlife,8-Nov,75,38040,9-Nov,,Bank of America,Charles Schwab,0
+9100116092,Mary Kay Adams,100016093,731 CORRAL DR,BIN 511225,Unknown or terminal not used,Target,5-Nov,5,600,6-Nov,,Wells Fargo,American Express,0
+9100116092,Neile Adams,100016093,3164 GLENDAM DR,BIN 412900,Manual key entry,BJS,7-Nov,7,840,10-Nov,,Citigroup,Ally Financial,1
+9100116092,Poni Adams,100016093,690 CLARKSON AVE APT B,BIN 41290075,Mag stripe read ? CVV checking not possible,Shell,9-Nov,335,40200,10-Nov,,Goldman Sachs,RBC Bank,0
+9100116092,Stella Adams,100016093,PO BOX 6287,BIN 434272,Barcode read,Flowers.com,1-Nov,5,40320,3-Nov,,Morgan Stanley,JPMorgan Chase,1
+9100116092,Yolanda Adams,100016093,525 JACOBS PL,BIN 43427275,Unknown,Walmart,3-Nov,7,38040,4-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Calpernia Addams,100016093,54 POPPY CT,BIN 43427299,MANUAL ENTRY,Target,11-Nov,317,600,12-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100116092,Nancy Addison,100016093,303 CASTLE RIDGE DR,BIN 434272999,SWIPED MACHINE READ,BJS,13-Nov,5,840,16-Nov,,PNC Bank,Citigroup,1
+9100116092,Alexandra Adi,100016093,PO BOX 1567,BIN 434472,MANUAL ENTRY,Shell,15-Nov,7,40200,16-Nov,,Capital One,Goldman Sachs,0
+9100116092,Celia Adler,100016093,2013 CAMBRIDGE DR,BIN 433064,SWIPED MACHINE READ,BP,2-Nov,317,40320,4-Nov,,HSBC,Morgan Stanley,0
+9100116092,Joanna P. Adler,100016093,PO BOX 86702,BIN 43306455,Unknown or terminal not used,Target,4-Nov,75,38040,5-Nov,,TD Bank,U.S. Bancorp,0
+9100116092,Sara Adler,100016093,PO BOX 107512,BIN 43306475,Manual key entry,BJS,6-Nov,216,600,7-Nov,,State Street,Citizens Bank,1
+9100116092,Stella Adler,100016093,22 CEDAR CREST DR,BIN 532206,Mag stripe read ? CVV checking not possible,MBTA,8-Nov,75,840,11-Nov,,BB&T,USAA,1
+9100116092,Pamela Adlon,100016093,1508 ARIZONA ST,BIN 546231,Barcode read,Amazon.com,10-Nov,75,40200,11-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100116092,Iris Adrian,100016093,1050 E COLUMBINE AVE,BIN 5462317,Unknown,Uber,12-Nov,5,40320,14-Nov,,Charles Schwab,BMO Harris Bank,0
+9100116092,Uzo Aduba,100016093,216 VISTA HILLS DR,BIN 561196,MANUAL ENTRY,Draftkings,14-Nov,7,38040,15-Nov,,American Express,Santander Bank,0
+9100116092,Aarthi Agarwal,100016093,PO BOX 1786,BIN 446826,SWIPED MACHINE READ,Nightlife,16-Nov,335,600,17-Nov,,Ally Financial,Regions Bank,0
+9100116092,Shohreh Aghdashloo,100016093,291 MOUNTAIN VIEW ST,BIN 455415,MANUAL ENTRY,Target,7-Nov,5,840,10-Nov,,RBC Bank,M&T Bank,0
+9100116092,Dianna Agron,100016093,PO BOX 2317916,BIN 4554157,SWIPED MACHINE READ,BJS,9-Nov,7,40200,10-Nov,,Citizens Bank,Northern Trust,1
+9100116092,Christina Aguilera,100016093,PO BOX 3090825,BIN 472135,Unknown or terminal not used,Shell,11-Nov,317,40320,13-Nov,,USAA,Union Bank,0
+9100116092,Lassie Lou Ahern,100016093,3 CHARTER OAK AVE UNIT 1,BIN 567368,Manual key entry,Flowers.com,2-Nov,5,38040,3-Nov,,Fifth Third Bank,KeyCorp,1
+9100116092,Peggy Ahern,100016093,538 TAMARACK DR UNIT 403,BIN 566335,Mag stripe read ? CVV checking not possible,Walmart,4-Nov,7,40200,5-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100116092,Rita Rani Ahuja,100016093,321 SAGEMONT CIR,BIN 541016,Barcode read,Target,6-Nov,335,600,9-Nov,,Santander Bank,Bank of New York Mellon,0
+9100116092,Mary Ainslee,100016093,1861 GRACELAND DR,BIN 551946,Unknown,BJS,8-Nov,5,840,9-Nov,,Regions Bank,PNC Bank,1
+9100116092,Helen Ainsworth,100016093,404 BALLARD AVE,BIN 588076,MANUAL ENTRY,Shell,5-Nov,7,600,7-Nov,,M&T Bank,Capital One,0
+9100116092,Lexi Ainsworth,100016093,PO BOX 8802,BIN 469508,SWIPED MACHINE READ,BP,7-Nov,317,840,8-Nov,,Northern Trust,HSBC,0
+9100116092,Soumaya Akaaboune,100016093,641 1/2 IAN CT,BIN 533070,MANUAL ENTRY,Target,9-Nov,5,40200,10-Nov,,Union Bank,TD Bank,0
+9100116092,Karen Akers,100016093,2381 VAN GORDON ST,BIN 455406,SWIPED MACHINE READ,BJS,1-Nov,7,40320,4-Nov,,KeyCorp,State Street,1
+9100116092,Desiree Akhavan,100016093,922 MAIN ST,BIN 448048,Unknown or terminal not used,MBTA,3-Nov,335,38040,4-Nov,,MSN Banknorth,BB&T,0
+9100116092,Shuko Akune,100016093,9449 6097 RD,BIN 431598,Manual key entry,Amazon.com,11-Nov,5,600,13-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100116092,Mackenzie Aladjem,100016093,411 AABC STE 1A,BIN 502764,Mag stripe read ? CVV checking not possible,Uber,13-Nov,317,840,14-Nov,,Bank of America,Charles Schwab,0
+9100116092,Lori Alan,100016093,PO BOX 6595,BIN 490206,Barcode read,Draftkings,15-Nov,75,40200,16-Nov,,Wells Fargo,American Express,0
+9100116092,Morjana Alaoui,100016093,PO BOX 6075,BIN 490207,Unknown,Nightlife,2-Nov,216,40320,5-Nov,,Citigroup,Ally Financial,0
+9100116092,Jessica Alba,100016093,PO BOX 916,BIN 469050,MANUAL ENTRY,Target,4-Nov,75,38040,5-Nov,,Goldman Sachs,RBC Bank,0
+9100116092,Maria Alba,100016093,PO BOX 2200,BIN 449023,SWIPED MACHINE READ,BJS,6-Nov,75,600,8-Nov,,Morgan Stanley,JPMorgan Chase,1
+9100116092,Mabel Albertson,100016093,PO BOX 773,BIN 4490237,MANUAL ENTRY,Shell,8-Nov,5,840,9-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Tessa Albertson,100016093,1504 COUNTY RD 245,BIN 460610,SWIPED MACHINE READ,Flowers.com,10-Nov,7,40200,11-Nov,,Bank of New York Mellon,Wells Fargo,1
+9100116092,Lola Albright,100016093,PO BOX 4942,BIN 586678,Unknown or terminal not used,Walmart,12-Nov,335,38040,15-Nov,,PNC Bank,Citigroup,0
+9100116092,Beatrice Alda,100016093,PO BOX 5665,BIN 58667899,Manual key entry,Target,14-Nov,5,600,15-Nov,,Capital One,Goldman Sachs,0
+9100116092,Elizabeth Alda,100016093,5126 FRYING PAN RD,BIN 587325,Mag stripe read ? CVV checking not possible,BJS,16-Nov,7,840,18-Nov,,HSBC,Morgan Stanley,1
+9100116092,Rutanya Alda,100016093,118 W PARK ST,BIN 448044,Barcode read,Shell,7-Nov,317,40200,8-Nov,,TD Bank,U.S. Bancorp,0
+9100116092,Mary Alden,100016093,PO BOX 3527,BIN 491468,Unknown,BP,9-Nov,317,38040,10-Nov,,State Street,Citizens Bank,0
+9100116092,Mari Aldon,100016093,713 E 5TH ST,BIN 472713,MANUAL ENTRY,Target,11-Nov,75,600,14-Nov,,BB&T,USAA,1
+9100116092,Kay Aldridge,100016093,PO BOX 1682,BIN 588075,SWIPED MACHINE READ,BJS,2-Nov,216,840,3-Nov,,SunTrust Bank,Fifth Third Bank,1
+9100116092,Raquel Alessi,100016093,PO BOX 1745,BIN 58807500,MANUAL ENTRY,MBTA,4-Nov,75,40200,6-Nov,,Charles Schwab,BMO Harris Bank,0
+9100116092,Alex ter Avest,100016093,743 ROUTE GOURDON,BIN 5880751,SWIPED MACHINE READ,Amazon.com,6-Nov,75,38040,7-Nov,,American Express,Santander Bank,0
+9100116092,Denise Alexander,100016093,1558 SHADOW RUN COURT #D301,BIN 56704600,Unknown or terminal not used,Uber,8-Nov,5,40320,9-Nov,,Ally Financial,Regions Bank,0
+9100116092,Jaimie Alexander,100016093,655 1/2 MAIN AVE,BIN 586707,Manual key entry,Draftkings,5-Nov,7,600,8-Nov,,RBC Bank,M&T Bank,0
+9100116092,Jane Alexander,100016093,PO BOX 6066,BIN 460725,Mag stripe read ? CVV checking not possible,Nightlife,7-Nov,335,840,8-Nov,,Citizens Bank,Northern Trust,0
+9100116092,Katharine Alexander,100016093,32853 S ELK DR,BIN 429546,Barcode read,Target,9-Nov,5,40200,11-Nov,,USAA,Union Bank,0
+9100116092,Khandi Alexander,100016093,PO BOX 1770,BIN 408095,Unknown,BJS,1-Nov,7,38040,2-Nov,,Fifth Third Bank,KeyCorp,1
+9100116092,Olivia Alexander,100016093,PO BOX 6993,BIN 510675,MANUAL ENTRY,Shell,3-Nov,317,40320,4-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100116092,Sasha Alexander,100016093,PO BOX 1151,BIN 54101609,SWIPED MACHINE READ,Flowers.com,11-Nov,5,600,14-Nov,,Santander Bank,Bank of New York Mellon,1
+9100116092,Gloria Alexandra,100016093,2504 CISAR CT UNIT C1,BIN 587589,MANUAL ENTRY,Walmart,13-Nov,7,840,14-Nov,,Regions Bank,PNC Bank,0
+9100116092,Tiana Alexandra,100016093,PO BOX 6187,BIN 477428,SWIPED MACHINE READ,Target,15-Nov,335,40200,17-Nov,,M&T Bank,Capital One,0
+9100116092,Sadie Alexandru,100016093,229 MESA GRANDE DR,BIN 477429,Unknown or terminal not used,BJS,2-Nov,5,38040,3-Nov,,Northern Trust,HSBC,1
+9100116092,Marnie Alexenburg,100016093,254 SHOOTER LN,BIN 475416,Manual key entry,Shell,4-Nov,317,40320,5-Nov,,Union Bank,TD Bank,0
+9100116092,Kristian Alfonso,100016093,382 STAGECOACH LN,BIN 447991,Mag stripe read ? CVV checking not possible,BP,6-Nov,75,40200,9-Nov,,KeyCorp,State Street,0
+9100116092,Brittney Alger,100016093,7405 COUNTY ROAD 312,BIN 442565,Barcode read,Target,8-Nov,216,600,9-Nov,,MSN Banknorth,BB&T,0
+9100116092,Khalilah Ali,100016093,143 COMMONWEALTH AVE #C35,BIN 477331,Unknown,BJS,10-Nov,75,840,12-Nov,,JPMorgan Chase,SunTrust Bank,1
+9100116092,Tatyana Ali,100016093,2280 LONDON WAY,BIN 511061,MANUAL ENTRY,MBTA,12-Nov,75,38040,13-Nov,,Bank of America,Charles Schwab,0
+9100116092,Veronica Porché Ali,100016093,1728 HOWARD AVE UNIT B,BIN 511133,SWIPED MACHINE READ,Amazon.com,14-Nov,5,40200,15-Nov,,Wells Fargo,American Express,0
+9100116092,Mary Alice,100016093,1804 W 2ND ST TRLR 6,BIN 577657,MANUAL ENTRY,Uber,16-Nov,7,600,19-Nov,,Citigroup,Ally Financial,0
+9100116092,Ana Alicia,100016093,139 JUNIPER TRL,BIN 539174,SWIPED MACHINE READ,Draftkings,7-Nov,335,840,8-Nov,,Goldman Sachs,RBC Bank,0
+9100116092,Bianca Allaine,100016093,PO BOX 1417,BIN 557187,Unknown or terminal not used,Nightlife,9-Nov,5,38040,11-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Ava Allan,100016093,PO BOX 774261,BIN 579145,Manual key entry,Target,11-Nov,7,40200,12-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Maud Allan,100016093,PO BOX 5655,BIN 472139,Mag stripe read ? CVV checking not possible,BJS,2-Nov,317,600,3-Nov,,Bank of New York Mellon,Wells Fargo,1
+9100116092,Louise Allbritton,100016093,323 BIG PINON DR,BIN 462110,Barcode read,Shell,4-Nov,5,600,7-Nov,,PNC Bank,Citigroup,0
+9100116092,Gia Allemand,100016093,PO BOX 337,BIN 445184,Unknown,Flowers.com,6-Nov,7,840,7-Nov,,Capital One,Goldman Sachs,1
+9100116092,Aleisha Allen,100016093,16033 6250 RD,BIN 493012,MANUAL ENTRY,Walmart,8-Nov,335,40200,10-Nov,,HSBC,Morgan Stanley,0
+9100116092,Amy Allen,100016093,631 HUNTER CREEK DR,BIN 493044,SWIPED MACHINE READ,Target,5-Nov,5,40320,6-Nov,,TD Bank,U.S. Bancorp,0
+9100116092,Barbara Jo Allen,100016093,444 N 8TH ST,BIN 494327,MANUAL ENTRY,BJS,7-Nov,7,38040,8-Nov,,State Street,Citizens Bank,1
+9100116092,Billie Allen,100016093,3151 SKYLARK CT,BIN 400936,SWIPED MACHINE READ,Shell,9-Nov,317,600,12-Nov,,BB&T,USAA,1
+9100116092,Christa B. Allen,100016093,605 SLOAN ST,BIN 412195,Unknown or terminal not used,BP,1-Nov,5,840,2-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100116092,Crystal Allen,100016093,PO BOX 508,BIN 578134,Manual key entry,Target,3-Nov,7,40200,5-Nov,,Charles Schwab,BMO Harris Bank,0
+9100116092,Debbie Allen,100016093,609 25 1/2 RD UNIT 5,BIN 562718,Mag stripe read ? CVV checking not possible,BJS,11-Nov,317,40320,12-Nov,,American Express,Santander Bank,1
+9100116092,Dorothy Allen,100016093,2328 INTERSTATE AVE,BIN 463124,Barcode read,MBTA,13-Nov,75,38040,14-Nov,,Ally Financial,Regions Bank,0
+9100116092,Elizabeth Allen (actress),100016093,36909 GRANDVIEW MESA RD,BIN 449272,Unknown,Amazon.com,15-Nov,216,600,18-Nov,,RBC Bank,M&T Bank,0
+9100116092,Gracie Allen,100016093,1803 MAIN ST APT C4,BIN 475595,MANUAL ENTRY,Uber,2-Nov,75,840,3-Nov,,Citizens Bank,Northern Trust,0
+9100116092,India Allen,100016093,1975 W 3RD AVE UNIT A,BIN 534034,SWIPED MACHINE READ,Draftkings,4-Nov,75,40200,6-Nov,,USAA,Union Bank,0
+9100116092,Jo Harvey Allen,100016093,PO BOX 5986,BIN 534888,MANUAL ENTRY,Nightlife,6-Nov,5,40320,7-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,Joan Allen,100016093,PO BOX 7208,BIN 566783,SWIPED MACHINE READ,Target,8-Nov,7,38040,9-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100116092,Jonelle Allen,100016093,648 FOX CT,BIN 554348,Unknown or terminal not used,BJS,10-Nov,335,600,13-Nov,,Santander Bank,Bank of New York Mellon,1
+9100116092,Judith Allen,100016093,PO BOX 1148,BIN 5543484,Manual key entry,Shell,12-Nov,5,840,13-Nov,,Regions Bank,PNC Bank,0
+9100116092,Karen Allen,100016093,PO BOX 1742,BIN 563015,Mag stripe read ? CVV checking not possible,Flowers.com,14-Nov,7,40200,16-Nov,,M&T Bank,Capital One,1
+9100116092,Krista Allen,100016093,266 MESA ENCANTADA,BIN 489287,Barcode read,Walmart,16-Nov,317,40320,17-Nov,,Northern Trust,HSBC,0
+9100116092,Laura Allen,100016093,PO BOX 2959,BIN 422305,Unknown,Target,7-Nov,5,38040,8-Nov,,Union Bank,TD Bank,0
+9100116092,Maude Allen,100016093,PO BOX 3590,BIN 416482,MANUAL ENTRY,BJS,9-Nov,7,600,12-Nov,,KeyCorp,State Street,1
+9100116092,Nancy Allen (actress),100016093,618 CHEYENNE AVE,BIN 472038,SWIPED MACHINE READ,Shell,11-Nov,335,840,12-Nov,,MSN Banknorth,BB&T,0
+9100116092,Phyllis Allen,100016093,2943 N VIEW DR,BIN 4902106,MANUAL ENTRY,BP,2-Nov,5,40200,4-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100116092,Rae Allen,100016093,2540 BRENNA WAY,BIN 4275696,SWIPED MACHINE READ,Target,4-Nov,7,40320,5-Nov,,Bank of America,Charles Schwab,0
+9100116092,Sandy Allen,100016093,620 E 11TH ST,BIN 414991,Unknown or terminal not used,BJS,6-Nov,317,38040,7-Nov,,Wells Fargo,American Express,1
+9100116092,Sasha Allen,100016093,27656 HIGHWAY 6 TRLR 1803,BIN 4348096,Manual key entry,MBTA,8-Nov,75,600,11-Nov,,Citigroup,Ally Financial,0
+9100116092,Sheila Matthews Allen,100016093,PO BOX 5067,BIN 567959,Mag stripe read ? CVV checking not possible,Amazon.com,5-Nov,216,840,6-Nov,,Goldman Sachs,RBC Bank,0
+9100116092,Sian Barbara Allen,100016093,PO BOX 485,BIN 56795967,Barcode read,Uber,7-Nov,75,40200,9-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Tessa Allen,100016093,PO BOX 135,BIN 56795970,Unknown,Draftkings,9-Nov,75,40320,10-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Kirstie Alley,100016093,59 N PAINTED HORSE CIR,BIN 553845,MANUAL ENTRY,Nightlife,1-Nov,5,38040,2-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100116092,Sara Allgood,100016093,331 E 1ST ST,BIN 587944,SWIPED MACHINE READ,Target,3-Nov,7,600,6-Nov,,PNC Bank,Citigroup,0
+9100116092,Monica Allison,100016093,PO BOX 1717,BIN 532266,MANUAL ENTRY,BJS,11-Nov,335,840,12-Nov,,Capital One,Goldman Sachs,1
+9100116092,Elvia Allman,100016093,2646 CHESTNUT DR,BIN 489275,SWIPED MACHINE READ,Shell,13-Nov,5,40200,15-Nov,,HSBC,Morgan Stanley,0
+9100116092,Jamie Anne Allman,100016093,PO BOX 771346,BIN 48927532,Unknown or terminal not used,Flowers.com,15-Nov,7,40320,16-Nov,,TD Bank,U.S. Bancorp,1
+9100116092,Astrid Allwyn,100016093,2144 DEVON ST,BIN 429220,Manual key entry,Walmart,2-Nov,317,38040,3-Nov,,State Street,Citizens Bank,0
+9100116092,June Allyson,100016093,288 HOLLY LN,BIN 42922032,Mag stripe read ? CVV checking not possible,Target,4-Nov,5,40200,7-Nov,,BB&T,USAA,1
+9100116092,Daniella Alonso,100016093,1123 E 3RD AVE,BIN 431014,Barcode read,BJS,6-Nov,7,600,7-Nov,,SunTrust Bank,Fifth Third Bank,1
+9100116092,Corinne Alphen,100016093,715 BURNING MOUNTAIN AVE,BIN 568055,Unknown,Shell,8-Nov,317,840,10-Nov,,Charles Schwab,BMO Harris Bank,0
+9100116092,Carol Alt,100016093,46 SPRUCE CT,BIN 56805532,MANUAL ENTRY,BP,10-Nov,75,600,11-Nov,,American Express,Santander Bank,0
+9100116092,Summer Altice,100016093,2132 MONARCH PT,BIN 442329,SWIPED MACHINE READ,Target,12-Nov,216,840,13-Nov,,Ally Financial,Regions Bank,0
+9100116092,Angela Alvarado,100016093,PO BOX 20797,BIN 44232975,MANUAL ENTRY,BJS,14-Nov,75,40200,17-Nov,,RBC Bank,M&T Bank,1
+9100116092,Trini Alvarado,100016093,PO BOX 25336,BIN 44232999,SWIPED MACHINE READ,MBTA,16-Nov,75,40320,17-Nov,,Citizens Bank,Northern Trust,0
+9100116092,Monique Alvarez,100016093,3527 COUNTY ROAD 103,BIN 460657,Unknown or terminal not used,Amazon.com,7-Nov,5,38040,9-Nov,,USAA,Union Bank,0
+9100116092,Betty Amann,100016093,4383 COUNTY ROAD 331,BIN 405569,Manual key entry,Uber,9-Nov,7,600,10-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,Erika Amato,100016093,26454 TX HWY 77W,BIN 587863,Mag stripe read ? CVV checking not possible,Draftkings,11-Nov,335,840,12-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100116092,Kimberly Amato,100016093,PO BOX 3759,BIN 585302,Barcode read,Nightlife,2-Nov,5,40200,5-Nov,,Santander Bank,Bank of New York Mellon,0
+9100116092,Lauren Ambrose,100016093,204 14TH ST UNIT 320,BIN 429205,Unknown,Target,4-Nov,7,40320,5-Nov,,Regions Bank,PNC Bank,0
+9100116092,Tangie Ambrose,100016093,PO BOX 3362,BIN 441967,MANUAL ENTRY,BJS,6-Nov,317,38040,8-Nov,,M&T Bank,Capital One,1
+9100116092,Cindy Ambuehl,100016093,346 ELM AVE,BIN 441901,SWIPED MACHINE READ,Shell,8-Nov,5,600,9-Nov,,Northern Trust,HSBC,0
+9100116092,Amerie,100016093,533 MAIN AVE,BIN 568468,MANUAL ENTRY,Flowers.com,5-Nov,7,840,6-Nov,,Union Bank,TD Bank,1
+9100116092,Adrienne Ames,100016093,339 PARK AVE,BIN 445350,SWIPED MACHINE READ,Walmart,7-Nov,335,40200,10-Nov,,KeyCorp,State Street,0
+9100116092,Ramsay Ames,100016093,PO BOX 3945,BIN 477420,Unknown or terminal not used,Target,9-Nov,5,38040,10-Nov,,MSN Banknorth,BB&T,0
+9100116092,Rosemary Ames,100016093,107 LAKESIDE CT,BIN 427061,Manual key entry,BJS,1-Nov,317,600,3-Nov,,JPMorgan Chase,SunTrust Bank,1
+9100116092,Mädchen Amick,100016093,PO BOX 6961,BIN 568017,Mag stripe read ? CVV checking not possible,Shell,3-Nov,75,840,4-Nov,,Bank of America,Charles Schwab,0
+9100116092,Suzy Amis Cameron,100016093,2508 GLEN VIEW DR,BIN 532210,Barcode read,BP,11-Nov,216,40200,12-Nov,,Wells Fargo,American Express,0
+9100116092,Charlene Amoia,100016093,1173 COUNTY ROAD 8B,BIN 5322103,Unknown,Target,13-Nov,75,38040,16-Nov,,Citigroup,Ally Financial,0
+9100116092,Elizabeth Amsden,100016093,692 PONDEROSA DR,BIN 51115699,MANUAL ENTRY,BJS,15-Nov,75,600,16-Nov,,Goldman Sachs,RBC Bank,1
+9100116092,Eva Amurri,100016093,21349 LANNING RD,BIN 511157,SWIPED MACHINE READ,MBTA,2-Nov,5,840,4-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Kristina Anapau,100016093,1332 PITKIN AVE APT 14,BIN 51115715,MANUAL ENTRY,Amazon.com,4-Nov,7,40200,5-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Maureen Anderman,100016093,5036 COUNTY ROAD 335 #259,BIN 5111573,SWIPED MACHINE READ,Uber,6-Nov,335,38040,7-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100116092,Andrea Anders,100016093,627 LARIAT LOOP,BIN 51115755,Unknown or terminal not used,Draftkings,8-Nov,5,40320,11-Nov,,PNC Bank,Citigroup,0
+9100116092,Luana Anders,100016093,52 BOBCAT LN,BIN 51115799,Manual key entry,Nightlife,10-Nov,7,600,11-Nov,,Capital One,Goldman Sachs,0
+9100116092,Merry Anders,100016093,PO BOX 48,BIN 418579,Mag stripe read ? CVV checking not possible,Target,12-Nov,317,840,14-Nov,,HSBC,Morgan Stanley,0
+9100116092,Bridgette Andersen,100016093,552 PRIMAVERA ST,BIN 579386,Barcode read,BJS,14-Nov,5,40200,15-Nov,,TD Bank,U.S. Bancorp,1
+9100116092,Audrey Marie Anderson,100016093,1722 JUNIPER ST,BIN 551383,Unknown,Shell,16-Nov,7,38040,17-Nov,,State Street,Citizens Bank,0
+9100116092,Barbara Anderson (actress),100016093,255 WREN CT,BIN 500523,MANUAL ENTRY,Flowers.com,7-Nov,335,40320,10-Nov,,BB&T,USAA,1
+9100116092,Camille Anderson,100016093,2603 S OAK HURST CT APT 20,BIN 519649,SWIPED MACHINE READ,Walmart,9-Nov,5,600,10-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100116092,Donna Anderson,100016093,PO BOX 218,BIN 551352,MANUAL ENTRY,Target,11-Nov,7,840,13-Nov,,Charles Schwab,BMO Harris Bank,0
+9100116092,Dusty Anderson,100016093,252 BLUE SPRUCE DR,BIN 588130,SWIPED MACHINE READ,BJS,2-Nov,317,40200,3-Nov,,American Express,Santander Bank,1
+9100116092,Elaine Anderson Steinbeck,100016093,21851 MYERS RD,BIN 546109,Unknown or terminal not used,Shell,4-Nov,5,38040,5-Nov,,Ally Financial,Regions Bank,0
+9100116092,Ella Anderson,100016093,20544 TULIP CIR,BIN 527824,Manual key entry,BP,6-Nov,7,40320,9-Nov,,RBC Bank,M&T Bank,0
+9100116092,Erika Anderson,100016093,308 SOCIETY DR APT C5,BIN 504092,Mag stripe read ? CVV checking not possible,Target,8-Nov,335,40200,9-Nov,,Citizens Bank,Northern Trust,0
+9100116092,Eunice Anderson,100016093,PO BOX 1320086,BIN 461188,Barcode read,BJS,5-Nov,5,600,7-Nov,,USAA,Union Bank,1
+9100116092,Nicole Gale Anderson,100016093,PO BOX 1585383,BIN 419612,Unknown,MBTA,7-Nov,133,840,8-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,Gillian Anderson,100016093,4573 I-70 FRONTAGE RD,BIN 413987,MANUAL ENTRY,Amazon.com,9-Nov,133,38040,10-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100116092,Jacqueline Anderson,100016093,3282 GROVE ST APT 18,BIN 577325,SWIPED MACHINE READ,Uber,1-Nov,133,40200,4-Nov,,Santander Bank,Bank of New York Mellon,0
+9100116092,Jo Anderson,100016093,563 RIVER VIEW DR UNIT 707,BIN 579456,MANUAL ENTRY,Draftkings,3-Nov,133,600,4-Nov,,Regions Bank,PNC Bank,0
+9100116092,Loni Anderson,100016093,PO BOX 19659,BIN 57945699,SWIPED MACHINE READ,Nightlife,11-Nov,133,840,13-Nov,,M&T Bank,Capital One,0
+9100116092,Beverly Aadland,100016093,PO BOX 22896,BIN 566479,Unknown or terminal not used,Target,13-Nov,133,600,14-Nov,,Northern Trust,HSBC,0
+9100116092,Mariann Aalda,100016093,900 VITOS WAY,BIN 56647999,Manual key entry,BJS,15-Nov,133,840,16-Nov,,Union Bank,TD Bank,1
+9100116092,Aaliyah,100016093,740 35 6/10 RD,BIN 5664799955,Mag stripe read ? CVV checking not possible,Shell,2-Nov,133,40200,5-Nov,,KeyCorp,State Street,0
+9100116092,Angela Aames,100016093,1251 SUNSET DR,BIN 477488,Barcode read,Flowers.com,4-Nov,317,40320,5-Nov,,MSN Banknorth,BB&T,1
+9100116092,Caroline Aaron,100016093,1434 MANCHESTER DR,BIN 477489,Unknown,Walmart,6-Nov,75,38040,8-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100116092,Dorothy Abbott,100016093,162 LITTLE ELK CREEK AVE,BIN 501546,MANUAL ENTRY,Target,8-Nov,216,600,9-Nov,,Bank of America,Charles Schwab,0
+9100116092,Diahnne Abbott,100016093,BETTINA BRUSCH-STRECHER,BIN 50154601,SWIPED MACHINE READ,BJS,10-Nov,75,840,11-Nov,,Wells Fargo,American Express,1
+9100116092,Rose Abdoo,100016093,PO BOX 4094,BIN 432711,MANUAL ENTRY,Shell,12-Nov,75,40200,15-Nov,,Citigroup,Ally Financial,0
+9100116092,Paula Abdul,100016093,234 HARRIS ST,BIN 43271101,SWIPED MACHINE READ,BP,14-Nov,5,40320,15-Nov,,Goldman Sachs,RBC Bank,0
+9100116092,Rakefet Abergel,100016093,1296 BEDROCK CIR,BIN 404253,Unknown or terminal not used,Target,16-Nov,7,38040,18-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Betty Aberlin,100016093,PO BOX 32595,BIN 404254,Manual key entry,BJS,7-Nov,335,600,8-Nov,,U.S. Bancorp,Bank of America,1
+9100116092,Donzaleigh Abernathy,100016093,PO BOX 37979,BIN 469212,Mag stripe read ? CVV checking not possible,MBTA,9-Nov,5,840,10-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100116092,Whitney Able,100016093,3725 LONE TREE LN,BIN 579462,Barcode read,Amazon.com,11-Nov,7,40200,14-Nov,,PNC Bank,Citigroup,0
+9100116092,Amy Acker,100016093,1467 CONESTOGA CIR,BIN 567185,Unknown,Uber,2-Nov,317,40320,3-Nov,,Capital One,Goldman Sachs,0
+9100116092,Jean Acker,100016093,3129 GRAND AVE,BIN 56718500,MANUAL ENTRY,Draftkings,4-Nov,5,38040,6-Nov,,HSBC,Morgan Stanley,0
+9100116092,Bettye Ackerman,100016093,130 CRAWFORD LN APT 3,BIN 5671850099,SWIPED MACHINE READ,Nightlife,6-Nov,7,600,7-Nov,,TD Bank,U.S. Bancorp,0
+9100116092,Leslie Ackerman,100016093,PO BOX 8201,BIN 558193,MANUAL ENTRY,Target,8-Nov,335,840,9-Nov,,State Street,Citizens Bank,0
+9100116092,Anabelle Acosta,100016093,325 LIGHT HILL RD,BIN 550895,SWIPED MACHINE READ,BJS,5-Nov,317,40200,8-Nov,,BB&T,USAA,1
+9100116092,Acquanetta,100016093,1341 19 RD,BIN 567961,Unknown or terminal not used,Shell,7-Nov,75,40320,8-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100116092,Ava Acres,100016093,141 CIMARRON DR,BIN 476324,Manual key entry,Flowers.com,9-Nov,216,38040,11-Nov,,Charles Schwab,BMO Harris Bank,1
+9100116092,Isabella Acres,100016093,PO BOX 6194,BIN 416008,Mag stripe read ? CVV checking not possible,Walmart,1-Nov,75,600,2-Nov,,American Express,Santander Bank,0
+9100116092,Tatum Adair,100016093,1635 18 RD,BIN 510823,Barcode read,Target,3-Nov,75,840,4-Nov,,Ally Financial,Regions Bank,0
+9100116092,Kathryn Adams Doty,100016093,110 SERNANDINA ST,BIN 51082302,Unknown,BJS,11-Nov,5,40200,14-Nov,,RBC Bank,M&T Bank,1
+9100116092,Amy Adams,100016093,PO BOX 109,BIN 516709,MANUAL ENTRY,Shell,13-Nov,7,40320,14-Nov,,Citizens Bank,Northern Trust,0
+9100116092,Beverly Adams,100016093,PO BOX 2324,BIN 603024,SWIPED MACHINE READ,BP,15-Nov,335,38040,17-Nov,,USAA,Union Bank,0
+9100116092,Brooke Adams (actress),100016093,PO BOX 1484,BIN 57948303,MANUAL ENTRY,Target,2-Nov,5,600,3-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,Catlin Adams,100016093,116 RIVERDOWN DR,BIN 5794830399,SWIPED MACHINE READ,BJS,4-Nov,7,840,5-Nov,,BMO Harris Bank,MSN Banknorth,1
+9100116092,Dorothy Adams,100016093,27656 HIGHWAY 6 TRLR 1704,BIN 54134603,Unknown or terminal not used,MBTA,6-Nov,317,40200,9-Nov,,Santander Bank,Bank of New York Mellon,0
+9100116092,Eadie Adams,100016093,PO BOX 3118,BIN 55149803,Manual key entry,Amazon.com,8-Nov,5,40320,9-Nov,,Regions Bank,PNC Bank,0
+9100116092,Freya Adams,100016093,PO BOX 3551,BIN 51966103,Mag stripe read ? CVV checking not possible,Uber,10-Nov,7,38040,12-Nov,,M&T Bank,Capital One,0
+9100116092,Jane Adams (actress),100016093,548 1ST AVE APT 5H,BIN 529500,Barcode read,Draftkings,12-Nov,335,600,13-Nov,,Northern Trust,HSBC,0
+9100116092,Joey Lauren Adams,100016093,178 COUNTY ROAD 135,BIN 528981,Unknown,Nightlife,14-Nov,5,840,15-Nov,,Union Bank,TD Bank,0
+9100116092,Julie Adams,100016093,138 CEDAR RIDGE WAY,BIN 551254,MANUAL ENTRY,Target,16-Nov,7,40200,19-Nov,,KeyCorp,State Street,0
+9100116092,Lillian Adams,100016093,2705 H RD,BIN 566427,SWIPED MACHINE READ,BJS,7-Nov,317,40320,8-Nov,,MSN Banknorth,BB&T,1
+9100116092,Marla Adams,100016093,34654 HIGHWAY 6,BIN 56642700,MANUAL ENTRY,Shell,9-Nov,5,38040,11-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100116092,Mary Kay Adams,100016093,PO BOX 772476,BIN 56642702,SWIPED MACHINE READ,Flowers.com,11-Nov,317,40200,12-Nov,,Bank of America,Charles Schwab,1
+9100116092,Neile Adams,100016093,667 SO ANNABELLE CT,BIN 567645,Unknown or terminal not used,Walmart,2-Nov,75,600,3-Nov,,Wells Fargo,American Express,0
+9100116092,Poni Adams,100016093,2610 GREENCLIFF DR,BIN 56764500,Manual key entry,Target,4-Nov,216,840,7-Nov,,Citigroup,Ally Financial,0
+9100116092,Stella Adams,100016093,34914 PRONGHORN DR,BIN 56764599,Mag stripe read ? CVV checking not possible,BJS,6-Nov,75,600,7-Nov,,Goldman Sachs,RBC Bank,1
+9100116092,Yolanda Adams,100016093,PO BOX 4083,BIN 429294,Barcode read,Shell,8-Nov,75,840,10-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Calpernia Addams,100016093,12113 RCR 69,BIN 529353,Unknown,BP,5-Nov,5,40200,6-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Nancy Addison,100016093,1149 E 2ND AVE APT 7,BIN 546361,MANUAL ENTRY,Target,7-Nov,7,40320,8-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100116092,Alexandra Adi,100016093,1438 AIRPORT ROAD,BIN 541125,SWIPED MACHINE READ,BJS,9-Nov,335,38040,12-Nov,,PNC Bank,Citigroup,1
+9100116092,Celia Adler,100016093,PO BOX 585,BIN 589113,MANUAL ENTRY,MBTA,1-Nov,5,600,2-Nov,,Capital One,Goldman Sachs,0
+9100116092,Joanna P. Adler,100016093,3092 PINYON PL,BIN 534738,SWIPED MACHINE READ,Amazon.com,3-Nov,7,840,5-Nov,,HSBC,Morgan Stanley,0
+9100116092,Sara Adler,100016093,1303 N 21ST ST APT 306,BIN 515947,Unknown or terminal not used,Uber,11-Nov,317,40200,12-Nov,,TD Bank,U.S. Bancorp,0
+9100116092,Stella Adler,100016093,PO BOX 5689,BIN 534953,Manual key entry,Draftkings,13-Nov,5,40320,14-Nov,,State Street,Citizens Bank,0
+9100116092,Pamela Adlon,100016093,54 W DRY CREEK CT,BIN 578288,Mag stripe read ? CVV checking not possible,Nightlife,15-Nov,7,38040,18-Nov,,BB&T,USAA,1
+9100116092,Iris Adrian,100016093,PO BOX 2912,BIN 551025,Barcode read,Target,2-Nov,335,600,3-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100116092,Uzo Aduba,100016093,PO BOX 6463,BIN 559008,Unknown,BJS,4-Nov,5,840,6-Nov,,Charles Schwab,BMO Harris Bank,1
+9100116092,Aarthi Agarwal,100016093,PO BOX 348,BIN 586032,MANUAL ENTRY,Shell,6-Nov,7,40200,7-Nov,,American Express,Santander Bank,0
+9100116092,Shohreh Aghdashloo,100016093,1451 ELM AVE,BIN 586053,SWIPED MACHINE READ,Flowers.com,8-Nov,317,38040,9-Nov,,Ally Financial,Regions Bank,1
+9100116092,Dianna Agron,100016093,305 MEADOWOOD DR APT G1,BIN 586328,MANUAL ENTRY,Walmart,10-Nov,5,600,13-Nov,,RBC Bank,M&T Bank,0
+9100116092,Christina Aguilera,100016093,734 STORM KING CIR,BIN 463440,SWIPED MACHINE READ,Target,12-Nov,7,840,13-Nov,,Citizens Bank,Northern Trust,0
+9100116092,Lassie Lou Ahern,100016093,132 NIMBUS DR,BIN 460300,Unknown or terminal not used,BJS,14-Nov,335,40200,16-Nov,,USAA,Union Bank,1
+9100116092,Peggy Ahern,100016093,PO BOX 155,BIN 449292,Manual key entry,Shell,16-Nov,5,38040,17-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,Rita Rani Ahuja,100016093,732 CORRAL DR,BIN 426983,Mag stripe read ? CVV checking not possible,BP,7-Nov,317,600,8-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100116092,Mary Ainslee,100016093,3165 GLENDAM DR,BIN 4269839,Barcode read,Target,9-Nov,75,840,12-Nov,,Santander Bank,Bank of New York Mellon,0
+9100116092,Helen Ainsworth,100016093,691 CLARKSON AVE APT B,BIN 404845,Unknown,BJS,11-Nov,216,40200,12-Nov,,Regions Bank,PNC Bank,1
+9100116092,Lexi Ainsworth,100016093,PO BOX 6288,BIN 486994,MANUAL ENTRY,MBTA,2-Nov,75,600,4-Nov,,M&T Bank,Capital One,0
+9100116092,Soumaya Akaaboune,100016093,526 JACOBS PL,BIN 486985,SWIPED MACHINE READ,Amazon.com,4-Nov,75,840,5-Nov,,Northern Trust,HSBC,0
+9100116092,Karen Akers,100016093,55 POPPY CT,BIN 577964,MANUAL ENTRY,Uber,6-Nov,5,40200,7-Nov,,Union Bank,TD Bank,0
+9100116092,Desiree Akhavan,100016093,304 CASTLE RIDGE DR,BIN 444051,SWIPED MACHINE READ,Draftkings,8-Nov,7,40320,11-Nov,,KeyCorp,State Street,0
+9100116092,Shuko Akune,100016093,PO BOX 1568,BIN 475708,Unknown or terminal not used,Nightlife,5-Nov,335,38040,6-Nov,,MSN Banknorth,BB&T,0
+9100116092,Mackenzie Aladjem,100016093,2014 CAMBRIDGE DR,BIN 568555,Manual key entry,Target,7-Nov,5,600,9-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100116092,Lori Alan,100016093,PO BOX 128322,BIN 477469,Mag stripe read ? CVV checking not possible,BJS,9-Nov,7,840,10-Nov,,Bank of America,Charles Schwab,1
+9100116092,Morjana Alaoui,100016093,PO BOX 149132,BIN 500158,Barcode read,Shell,1-Nov,317,40200,2-Nov,,Wells Fargo,American Express,0
+9100116092,Jessica Alba,100016093,23 CEDAR CREST DR,BIN 40380103,Unknown,Flowers.com,3-Nov,5,40320,6-Nov,,Citigroup,Ally Financial,1
+9100116092,Maria Alba,100016093,1509 ARIZONA ST,BIN 40380203,MANUAL ENTRY,Walmart,11-Nov,7,38040,12-Nov,,Goldman Sachs,RBC Bank,0
+9100116092,Mabel Albertson,100016093,1051 E COLUMBINE AVE,BIN 57948003,SWIPED MACHINE READ,Target,13-Nov,335,600,15-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Tessa Albertson,100016093,217 VISTA HILLS DR,BIN 58954194,MANUAL ENTRY,BJS,15-Nov,5,840,16-Nov,,U.S. Bancorp,Bank of America,1
+9100116092,Lola Albright,100016093,PO BOX 1787,BIN 602973,SWIPED MACHINE READ,Shell,2-Nov,7,40200,3-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100116092,Beatrice Alda,100016093,292 MOUNTAIN VIEW ST,BIN 403168,Unknown or terminal not used,BP,4-Nov,317,40320,7-Nov,,PNC Bank,Citigroup,0
+9100116092,Elizabeth Alda,100016093,PO BOX 3863734,BIN 408820,Manual key entry,Target,6-Nov,5,38040,7-Nov,,Capital One,Goldman Sachs,0
+9100116092,Rutanya Alda,100016093,PO BOX 4636643,BIN 40882007,Mag stripe read ? CVV checking not possible,BJS,8-Nov,317,600,10-Nov,,HSBC,Morgan Stanley,1
+9100116092,Mary Alden,100016093,4 CHARTER OAK AVE UNIT 1,BIN 473082,Barcode read,MBTA,10-Nov,75,840,11-Nov,,TD Bank,U.S. Bancorp,0
+9100116092,Mari Aldon,100016093,539 TAMARACK DR UNIT 403,BIN 47308207,Unknown,Amazon.com,12-Nov,216,40200,13-Nov,,State Street,Citizens Bank,0
+9100116092,Kay Aldridge,100016093,322 SAGEMONT CIR,BIN 587686,MANUAL ENTRY,Uber,14-Nov,75,40320,17-Nov,,BB&T,USAA,1
+9100116092,Raquel Alessi,100016093,1862 GRACELAND DR,BIN 5876860369,SWIPED MACHINE READ,Draftkings,16-Nov,75,38040,17-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100116092,Alex ter Avest,100016093,405 BALLARD AVE,BIN 58954192,MANUAL ENTRY,Nightlife,7-Nov,5,600,9-Nov,,Charles Schwab,BMO Harris Bank,0
+9100116092,Denise Alexander,100016093,PO BOX 8803,BIN 57948004,SWIPED MACHINE READ,Target,9-Nov,7,840,10-Nov,,American Express,Santander Bank,0
+9100116092,Jaimie Alexander,100016093,642 1/2 IAN CT,BIN 40380204,Unknown or terminal not used,BJS,11-Nov,335,40200,12-Nov,,Ally Financial,Regions Bank,1
+9100116092,Jane Alexander,100016093,2382 VAN GORDON ST,BIN 40380104,Manual key entry,Shell,2-Nov,5,40320,5-Nov,,RBC Bank,M&T Bank,0
+9100116092,Katharine Alexander,100016093,923 MAIN ST,BIN 510628,Mag stripe read ? CVV checking not possible,Flowers.com,4-Nov,7,38040,5-Nov,,Citizens Bank,Northern Trust,1
+9100116092,Khandi Alexander,100016093,9450 6097 RD,BIN 567229,Barcode read,Walmart,6-Nov,317,600,8-Nov,,USAA,Union Bank,0
+9100116092,Olivia Alexander,100016093,412 AABC STE 1A,BIN 588231,Unknown,Target,8-Nov,5,840,9-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,Sasha Alexander,100016093,PO BOX 6595,BIN 422783,MANUAL ENTRY,BJS,5-Nov,7,40200,6-Nov,,BMO Harris Bank,MSN Banknorth,1
+9100116092,Gloria Alexandra,100016093,PO BOX 6075,BIN 450965,SWIPED MACHINE READ,Shell,7-Nov,335,40320,10-Nov,,Santander Bank,Bank of New York Mellon,0
+9100116092,Tiana Alexandra,100016093,PO BOX 916,BIN 438543,MANUAL ENTRY,BP,9-Nov,5,38040,10-Nov,,Regions Bank,PNC Bank,0
+9100116092,Sadie Alexandru,100016093,PO BOX 2200,BIN 43854304,SWIPED MACHINE READ,Target,1-Nov,7,600,3-Nov,,M&T Bank,Capital One,0
+9100116092,Marnie Alexenburg,100016093,PO BOX 773,BIN 602918,Unknown or terminal not used,BJS,3-Nov,317,840,4-Nov,,Northern Trust,HSBC,1
+9100116092,Kristian Alfonso,100016093,1505 COUNTY RD 245,BIN 587482,Manual key entry,MBTA,11-Nov,5,40200,12-Nov,,Union Bank,TD Bank,0
+9100116092,Brittney Alger,100016093,PO BOX 6388,BIN 416025,Mag stripe read ? CVV checking not possible,Amazon.com,13-Nov,317,40320,16-Nov,,KeyCorp,State Street,0
+9100116092,Khalilah Ali,100016093,PO BOX 7111,BIN 491493,Barcode read,Uber,15-Nov,75,38040,16-Nov,,MSN Banknorth,BB&T,0
+9100116092,Tatyana Ali,100016093,5127 FRYING PAN RD,BIN 504733,Unknown,Draftkings,2-Nov,216,40200,4-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100116092,Veronica Porché Ali,100016093,119 W PARK ST,BIN 50473314,MANUAL ENTRY,Nightlife,4-Nov,75,600,5-Nov,,Bank of America,Charles Schwab,0
+9100116092,Mary Alice,100016093,PO BOX 3528,BIN 438545,SWIPED MACHINE READ,Target,6-Nov,75,840,7-Nov,,Wells Fargo,American Express,0
+9100116092,Ana Alicia,100016093,714 E 5TH ST,BIN 460606,MANUAL ENTRY,BJS,8-Nov,5,600,11-Nov,,Citigroup,Ally Financial,1
+9100116092,Bianca Allaine,100016093,PO BOX 1808,BIN 449740,SWIPED MACHINE READ,Shell,10-Nov,7,840,11-Nov,,Goldman Sachs,RBC Bank,0
+9100116092,Ava Allan,100016093,PO BOX 1871,BIN 427027,Unknown or terminal not used,Flowers.com,12-Nov,335,40200,14-Nov,,Morgan Stanley,JPMorgan Chase,1
+9100116092,Maud Allan,100016093,744 ROUTE GOURDON,BIN 579446,Manual key entry,Walmart,14-Nov,5,40320,15-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Louise Allbritton,100016093,1559 SHADOW RUN COURT #D301,BIN 579226,Mag stripe read ? CVV checking not possible,Target,16-Nov,7,38040,17-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100116092,Gia Allemand,100016093,656 1/2 MAIN AVE,BIN 440153,Barcode read,BJS,7-Nov,317,600,10-Nov,,PNC Bank,Citigroup,1
+9100116092,Aleisha Allen,100016093,PO BOX 6067,BIN 467386,Unknown,Shell,9-Nov,5,840,10-Nov,,Capital One,Goldman Sachs,0
+9100116092,Amy Allen,100016093,32854 S ELK DR,BIN 534950,MANUAL ENTRY,BP,11-Nov,7,40200,13-Nov,,HSBC,Morgan Stanley,0
+9100116092,Barbara Jo Allen,100016093,PO BOX 1770,BIN 559009,SWIPED MACHINE READ,Target,2-Nov,335,40320,3-Nov,,TD Bank,U.S. Bancorp,0
+9100116092,Billie Allen,100016093,PO BOX 6993,BIN 546081,MANUAL ENTRY,BJS,4-Nov,5,38040,5-Nov,,State Street,Citizens Bank,1
+9100116092,Christa B. Allen,100016093,PO BOX 1151,BIN 5460818,SWIPED MACHINE READ,MBTA,6-Nov,317,600,9-Nov,,BB&T,USAA,1
+9100116092,Crystal Allen,100016093,2505 CISAR CT UNIT C1,BIN 579440,Unknown or terminal not used,Amazon.com,8-Nov,75,840,9-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100116092,Debbie Allen,100016093,PO BOX 6188,BIN 477499,Manual key entry,Uber,5-Nov,216,40200,7-Nov,,Charles Schwab,BMO Harris Bank,0
+9100116092,Dorothy Allen,100016093,230 MESA GRANDE DR,BIN 477470,Mag stripe read ? CVV checking not possible,Draftkings,7-Nov,75,38040,8-Nov,,American Express,Santander Bank,0
+9100116092,Elizabeth Allen (actress),100016093,255 SHOOTER LN,BIN 477442,Barcode read,Nightlife,9-Nov,75,600,10-Nov,,Ally Financial,Regions Bank,0
+9100116092,Gracie Allen,100016093,383 STAGECOACH LN,BIN 47744201,Unknown,Target,1-Nov,5,840,4-Nov,,RBC Bank,M&T Bank,0
+9100116092,India Allen,100016093,7406 COUNTY ROAD 312,BIN 47744202,MANUAL ENTRY,BJS,3-Nov,7,40200,4-Nov,,Citizens Bank,Northern Trust,1
+9100116092,Jo Harvey Allen,100016093,144 COMMONWEALTH AVE #C35,BIN 47744203,SWIPED MACHINE READ,Shell,11-Nov,335,38040,13-Nov,,USAA,Union Bank,0
+9100116092,Joan Allen,100016093,2281 LONDON WAY,BIN 501188,MANUAL ENTRY,Flowers.com,13-Nov,5,600,14-Nov,,Fifth Third Bank,KeyCorp,1
+9100116092,Jonelle Allen,100016093,1729 HOWARD AVE UNIT B,BIN 451808,SWIPED MACHINE READ,Walmart,15-Nov,7,840,16-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100116092,Judith Allen,100016093,1805 W 2ND ST TRLR 6,BIN 451674,Unknown or terminal not used,Target,2-Nov,317,40200,5-Nov,,Santander Bank,Bank of New York Mellon,0
+9100116092,Karen Allen,100016093,140 JUNIPER TRL,BIN 438518,Manual key entry,BJS,4-Nov,5,38040,5-Nov,,Regions Bank,PNC Bank,1
+9100116092,Krista Allen,100016093,PO BOX 1417,BIN 566678,Mag stripe read ? CVV checking not possible,Shell,6-Nov,7,40320,8-Nov,,M&T Bank,Capital One,0
+9100116092,Laura Allen,100016093,PO BOX 774261,BIN 568266,Barcode read,BP,8-Nov,335,600,9-Nov,,Northern Trust,HSBC,0
+9100116092,Maude Allen,100016093,PO BOX 5655,BIN 477889,Unknown,Target,10-Nov,5,840,11-Nov,,Union Bank,TD Bank,0
+9100116092,Nancy Allen (actress),100016093,324 BIG PINON DR,BIN 485594,MANUAL ENTRY,BJS,12-Nov,7,40200,15-Nov,,KeyCorp,State Street,1
+9100116092,Phyllis Allen,100016093,PO BOX 338,BIN 429244,SWIPED MACHINE READ,MBTA,14-Nov,317,38040,15-Nov,,MSN Banknorth,BB&T,0
+9100116092,Rae Allen,100016093,16034 6250 RD,BIN 425792,MANUAL ENTRY,Amazon.com,16-Nov,317,40320,18-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100116092,Sandy Allen,100016093,632 HUNTER CREEK DR,BIN 429277,SWIPED MACHINE READ,Uber,7-Nov,75,600,8-Nov,,Bank of America,Charles Schwab,0
+9100116092,Sasha Allen,100016093,445 N 8TH ST,BIN 441976,Unknown or terminal not used,Draftkings,9-Nov,216,840,10-Nov,,Wells Fargo,American Express,0
+9100116092,Sheila Matthews Allen,100016093,3152 SKYLARK CT,BIN 477416,Manual key entry,Nightlife,11-Nov,75,40200,14-Nov,,Citigroup,Ally Financial,0
+9100116092,Sian Barbara Allen,100016093,606 SLOAN ST,BIN 501228,Mag stripe read ? CVV checking not possible,Target,2-Nov,75,38040,3-Nov,,Goldman Sachs,RBC Bank,0
+9100116092,Tessa Allen,100016093,PO BOX 509,BIN 493055,Barcode read,BJS,4-Nov,5,40320,6-Nov,,Morgan Stanley,JPMorgan Chase,1
+9100116092,Kirstie Alley,100016093,610 25 1/2 RD UNIT 5,BIN 434837,Unknown,Shell,6-Nov,7,40200,7-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Sara Allgood,100016093,2329 INTERSTATE AVE,BIN 431471,MANUAL ENTRY,Flowers.com,8-Nov,335,600,9-Nov,,Bank of New York Mellon,Wells Fargo,1
+9100116092,Monica Allison,100016093,36910 GRANDVIEW MESA RD,BIN 501294,SWIPED MACHINE READ,Walmart,5-Nov,5,840,8-Nov,,PNC Bank,Citigroup,0
+9100116092,Elvia Allman,100016093,1804 MAIN ST APT C4,BIN 485579,MANUAL ENTRY,Target,7-Nov,7,38040,8-Nov,,Capital One,Goldman Sachs,0
+9100116092,Jamie Anne Allman,100016093,1976 W 3RD AVE UNIT A,BIN 585240,SWIPED MACHINE READ,BJS,9-Nov,317,40200,11-Nov,,HSBC,Morgan Stanley,1
+9100116092,Astrid Allwyn,100016093,PO BOX 8430,BIN 475452,Unknown or terminal not used,Shell,1-Nov,5,600,2-Nov,,TD Bank,U.S. Bancorp,0
+9100116092,June Allyson,100016093,PO BOX 9652,BIN 501301,Manual key entry,BP,3-Nov,7,840,4-Nov,,State Street,Citizens Bank,0
+9100116092,Daniella Alonso,100016093,649 FOX CT,BIN 422370,Mag stripe read ? CVV checking not possible,Target,11-Nov,335,38040,14-Nov,,BB&T,USAA,1
+9100116092,Corinne Alphen,100016093,PO BOX 2336,BIN 441951,Barcode read,BJS,13-Nov,5,40200,14-Nov,,SunTrust Bank,Fifth Third Bank,1
+9100116092,Carol Alt,100016093,PO BOX 2930,BIN 501310,Unknown,MBTA,15-Nov,7,600,17-Nov,,Charles Schwab,BMO Harris Bank,0
+9100116092,Summer Altice,100016093,267 MESA ENCANTADA,BIN 477498,MANUAL ENTRY,Amazon.com,2-Nov,317,840,3-Nov,,American Express,Santander Bank,0
+9100116092,Angela Alvarado,100016093,PO BOX 4221,BIN 471319,SWIPED MACHINE READ,Uber,4-Nov,5,38040,5-Nov,,Ally Financial,Regions Bank,0
+9100116092,Trini Alvarado,100016093,PO BOX 4852,BIN 477500,MANUAL ENTRY,Draftkings,6-Nov,7,40200,9-Nov,,RBC Bank,M&T Bank,0
+9100116092,Monique Alvarez,100016093,619 CHEYENNE AVE,BIN 418523,SWIPED MACHINE READ,Nightlife,8-Nov,317,15960,9-Nov,,Citizens Bank,Northern Trust,0
+9100116092,Betty Amann,100016093,2944 N VIEW DR,BIN 587771,Unknown or terminal not used,Target,10-Nov,75,600,12-Nov,,USAA,Union Bank,0
+9100116092,Erika Amato,100016093,2541 BRENNA WAY,BIN 464335,Manual key entry,BJS,12-Nov,216,840,13-Nov,,Fifth Third Bank,KeyCorp,1
+9100116092,Kimberly Amato,100016093,621 E 11TH ST,BIN 464352,Mag stripe read ? CVV checking not possible,Shell,14-Nov,75,40200,15-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100116092,Lauren Ambrose,100016093,27657 HIGHWAY 6 TRLR 1803,BIN 471304,Barcode read,Flowers.com,16-Nov,75,40320,19-Nov,,Santander Bank,Bank of New York Mellon,1
+9100116092,Tangie Ambrose,100016093,PO BOX 5067,BIN 482160,Unknown,Walmart,7-Nov,5,38040,8-Nov,,Regions Bank,PNC Bank,0
+9100116092,Cindy Ambuehl,100016093,PO BOX 485,BIN 579502,MANUAL ENTRY,Target,9-Nov,7,600,11-Nov,,M&T Bank,Capital One,0
+9100116092,Amerie,100016093,PO BOX 135,BIN 57950211,SWIPED MACHINE READ,BJS,11-Nov,335,840,12-Nov,,Northern Trust,HSBC,1
+9100116092,Adrienne Ames,100016093,60 N PAINTED HORSE CIR,BIN 568480,MANUAL ENTRY,Shell,2-Nov,5,40200,3-Nov,,Union Bank,TD Bank,0
+9100116092,Ramsay Ames,100016093,332 E 1ST ST,BIN 407922,SWIPED MACHINE READ,BP,4-Nov,7,40320,7-Nov,,KeyCorp,State Street,0
+9100116092,Rosemary Ames,100016093,PO BOX 1718,BIN 441975,Unknown or terminal not used,Target,6-Nov,317,38040,7-Nov,,MSN Banknorth,BB&T,0
+9100116092,Mädchen Amick,100016093,2647 CHESTNUT DR,BIN 441916,Manual key entry,BJS,8-Nov,5,600,10-Nov,,JPMorgan Chase,SunTrust Bank,1
+9100116092,Suzy Amis Cameron,100016093,PO BOX 771347,BIN 586502,Mag stripe read ? CVV checking not possible,MBTA,5-Nov,7,840,6-Nov,,Bank of America,Charles Schwab,0
+9100116092,Charlene Amoia,100016093,2145 DEVON ST,BIN 586213,Barcode read,Amazon.com,7-Nov,335,40200,8-Nov,,Wells Fargo,American Express,0
+9100116092,Elizabeth Amsden,100016093,289 HOLLY LN,BIN 447693,Unknown,Uber,9-Nov,5,40320,12-Nov,,Citigroup,Ally Financial,0
+9100116092,Eva Amurri,100016093,1124 E 3RD AVE,BIN 412753,MANUAL ENTRY,Draftkings,1-Nov,7,38040,2-Nov,,Goldman Sachs,RBC Bank,0
+9100116092,Kristina Anapau,100016093,716 BURNING MOUNTAIN AVE,BIN 485597,SWIPED MACHINE READ,Nightlife,3-Nov,317,600,5-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Maureen Anderman,100016093,47 SPRUCE CT,BIN 404813,MANUAL ENTRY,Target,11-Nov,5,840,12-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Andrea Anders,100016093,2133 MONARCH PT,BIN 449075,SWIPED MACHINE READ,BJS,13-Nov,7,40200,14-Nov,,Bank of New York Mellon,Wells Fargo,1
+9100116092,Luana Anders,100016093,PO BOX 29875,BIN 588146,Unknown or terminal not used,Shell,15-Nov,335,40320,18-Nov,,PNC Bank,Citigroup,0
+9100116092,Merry Anders,100016093,PO BOX 34414,BIN 577703,Manual key entry,Flowers.com,2-Nov,5,38040,3-Nov,,Capital One,Goldman Sachs,1
+9100116092,Bridgette Andersen,100016093,3528 COUNTY ROAD 103,BIN 57770350,Mag stripe read ? CVV checking not possible,Walmart,4-Nov,133,600,6-Nov,,HSBC,Morgan Stanley,0
+9100116092,Audrey Marie Anderson,100016093,4384 COUNTY ROAD 331,BIN 57770352,Barcode read,Target,6-Nov,133,840,7-Nov,,TD Bank,U.S. Bancorp,0
+9100116092,Barbara Anderson (actress),100016093,26455 TX HWY 77W,BIN 475674,Unknown,BJS,8-Nov,133,40200,9-Nov,,State Street,Citizens Bank,1
+9100116092,Camille Anderson,100016093,PO BOX 3760,BIN 500422,MANUAL ENTRY,Shell,10-Nov,133,40320,13-Nov,,BB&T,USAA,1
+9100116092,Donna Anderson,100016093,205 14TH ST UNIT 320,BIN 50042250,SWIPED MACHINE READ,BP,12-Nov,133,38040,13-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100116092,Dusty Anderson,100016093,PO BOX 3363,BIN 50042252,MANUAL ENTRY,Target,14-Nov,133,600,16-Nov,,Charles Schwab,BMO Harris Bank,0
+9100116092,Elaine Anderson Steinbeck,100016093,347 ELM AVE,BIN 510136,SWIPED MACHINE READ,BJS,16-Nov,133,840,17-Nov,,American Express,Santander Bank,1
+9100116092,Ella Anderson,100016093,534 MAIN AVE,BIN 510316,Unknown or terminal not used,MBTA,7-Nov,133,40200,8-Nov,,Ally Financial,Regions Bank,0
+9100116092,Erika Anderson,100016093,340 PARK AVE,BIN 51031650,Manual key entry,Amazon.com,9-Nov,317,40320,12-Nov,,RBC Bank,M&T Bank,0
+9100116092,Eunice Anderson,100016093,PO BOX 3946,BIN 51031652,Mag stripe read ? CVV checking not possible,Uber,11-Nov,75,38040,12-Nov,,Citizens Bank,Northern Trust,0
+9100116092,Nicole Gale Anderson,100016093,108 LAKESIDE CT,BIN 528764,Barcode read,Draftkings,2-Nov,216,600,4-Nov,,USAA,Union Bank,0
+9100116092,Gillian Anderson,100016093,PO BOX 6962,BIN 52876450,Unknown,Nightlife,4-Nov,75,840,5-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,Jacqueline Anderson,100016093,2509 GLEN VIEW DR,BIN 52876452,MANUAL ENTRY,Target,6-Nov,75,40200,7-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100116092,Jo Anderson,100016093,1174 COUNTY ROAD 8B,BIN 525317,SWIPED MACHINE READ,BJS,8-Nov,5,40320,11-Nov,,Santander Bank,Bank of New York Mellon,1
+9100116092,Loni Anderson,100016093,693 PONDEROSA DR,BIN 52531752,MANUAL ENTRY,Shell,5-Nov,7,38040,6-Nov,,Regions Bank,PNC Bank,0
+9100116092,Beverly Aadland,100016093,21350 LANNING RD,BIN 460658,SWIPED MACHINE READ,Flowers.com,7-Nov,335,40200,9-Nov,,M&T Bank,Capital One,1
+9100116092,Mariann Aalda,100016093,1333 PITKIN AVE APT 14,BIN 46065800,Unknown or terminal not used,Walmart,9-Nov,5,600,10-Nov,,Northern Trust,HSBC,0
+9100116092,Aaliyah,100016093,5037 COUNTY ROAD 335 #259,BIN 46065829,Manual key entry,Target,1-Nov,7,840,2-Nov,,Union Bank,TD Bank,0
+9100116092,Angela Aames,100016093,628 LARIAT LOOP,BIN 484126,Mag stripe read ? CVV checking not possible,BJS,3-Nov,317,600,6-Nov,,KeyCorp,State Street,1
+9100116092,Caroline Aaron,100016093,53 BOBCAT LN,BIN 477477,Barcode read,Shell,11-Nov,75,840,12-Nov,,MSN Banknorth,BB&T,0
+9100116092,Dorothy Abbott,100016093,PO BOX 49,BIN 567041,Unknown,BP,13-Nov,216,40200,15-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100116092,Diahnne Abbott,100016093,553 PRIMAVERA ST,BIN 566987,MANUAL ENTRY,Target,15-Nov,75,40320,16-Nov,,Bank of America,Charles Schwab,0
+9100116092,Rose Abdoo,100016093,1723 JUNIPER ST,BIN 409254,SWIPED MACHINE READ,BJS,2-Nov,75,38040,3-Nov,,Wells Fargo,American Express,1
+9100116092,Paula Abdul,100016093,256 WREN CT,BIN 416483,MANUAL ENTRY,MBTA,4-Nov,5,600,7-Nov,,Citigroup,Ally Financial,0
+9100116092,Rakefet Abergel,100016093,2604 S OAK HURST CT APT 20,BIN 406789,SWIPED MACHINE READ,Amazon.com,6-Nov,7,840,7-Nov,,Goldman Sachs,RBC Bank,0
+9100116092,Betty Aberlin,100016093,PO BOX 219,BIN 401621,Unknown or terminal not used,Uber,8-Nov,335,40200,10-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Donzaleigh Abernathy,100016093,253 BLUE SPRUCE DR,BIN 447403,Manual key entry,Draftkings,10-Nov,5,40320,11-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Whitney Able,100016093,21852 MYERS RD,BIN 447405,Mag stripe read ? CVV checking not possible,Nightlife,12-Nov,7,38040,13-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100116092,Amy Acker,100016093,20545 TULIP CIR,BIN 447405372,Barcode read,Target,14-Nov,317,600,17-Nov,,PNC Bank,Citigroup,0
+9100116092,Jean Acker,100016093,309 SOCIETY DR APT C5,BIN 483371,Unknown,BJS,16-Nov,5,840,17-Nov,,Capital One,Goldman Sachs,1
+9100116092,Bettye Ackerman,100016093,PO BOX 1850680,BIN 476158,MANUAL ENTRY,Shell,7-Nov,317,40200,9-Nov,,HSBC,Morgan Stanley,0
+9100116092,Leslie Ackerman,100016093,PO BOX 2115977,BIN 476159,SWIPED MACHINE READ,Flowers.com,9-Nov,75,40320,10-Nov,,TD Bank,U.S. Bancorp,1
+9100116092,Anabelle Acosta,100016093,4574 I-70 FRONTAGE RD,BIN 504664,MANUAL ENTRY,Walmart,11-Nov,216,38040,12-Nov,,State Street,Citizens Bank,0
+9100116092,Acquanetta,100016093,3283 GROVE ST APT 18,BIN 567397,SWIPED MACHINE READ,Target,2-Nov,75,600,5-Nov,,BB&T,USAA,1
+9100116092,Ava Acres,100016093,564 RIVER VIEW DR UNIT 707,BIN 56739700,Unknown or terminal not used,BJS,4-Nov,75,840,5-Nov,,SunTrust Bank,Fifth Third Bank,1
+9100116092,Isabella Acres,100016093,PO BOX 26133,BIN 587947,Manual key entry,Shell,6-Nov,5,40200,8-Nov,,Charles Schwab,BMO Harris Bank,0
+9100116092,Tatum Adair,100016093,PO BOX 29370,BIN 58794700,Mag stripe read ? CVV checking not possible,BP,8-Nov,7,40320,9-Nov,,American Express,Santander Bank,0
+9100116092,Kathryn Adams Doty,100016093,901 VITOS WAY,BIN 588328,Barcode read,Target,5-Nov,335,38040,6-Nov,,Ally Financial,Regions Bank,0
+9100116092,Amy Adams,100016093,741 35 6/10 RD,BIN 567116,Unknown,BJS,7-Nov,5,600,10-Nov,,RBC Bank,M&T Bank,1
+9100116092,Beverly Adams,100016093,1252 SUNSET DR,BIN 567116000,MANUAL ENTRY,MBTA,9-Nov,7,840,10-Nov,,Citizens Bank,Northern Trust,0
+9100116092,Brooke Adams (actress),100016093,1435 MANCHESTER DR,BIN 567116057,SWIPED MACHINE READ,Amazon.com,1-Nov,317,40200,3-Nov,,USAA,Union Bank,0
+9100116092,Catlin Adams,100016093,163 LITTLE ELK CREEK AVE,BIN 483373,MANUAL ENTRY,Uber,3-Nov,5,40320,4-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,Dorothy Adams,100016093,BETTINA BRUSCH-STRECHER,BIN 447416,SWIPED MACHINE READ,Draftkings,11-Nov,7,38040,12-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100116092,Eadie Adams,100016093,PO BOX 4095,BIN 433538,Unknown or terminal not used,Nightlife,13-Nov,335,600,16-Nov,,Santander Bank,Bank of New York Mellon,0
+9100116092,Freya Adams,100016093,235 HARRIS ST,BIN 447404,Manual key entry,Target,15-Nov,5,840,16-Nov,,Regions Bank,PNC Bank,0
+9100116092,Jane Adams (actress),100016093,1297 BEDROCK CIR,BIN 447401,Mag stripe read ? CVV checking not possible,BJS,2-Nov,317,40200,4-Nov,,M&T Bank,Capital One,1
+9100116092,Joey Lauren Adams,100016093,PO BOX 43363,BIN 400813,Barcode read,Shell,4-Nov,75,40320,5-Nov,,Northern Trust,HSBC,0
+9100116092,Julie Adams,100016093,PO BOX 48747,BIN 407180,Unknown,Flowers.com,6-Nov,216,38040,7-Nov,,Union Bank,TD Bank,1
+9100116092,Lillian Adams,100016093,3726 LONE TREE LN,BIN 414437,MANUAL ENTRY,Walmart,8-Nov,75,600,11-Nov,,KeyCorp,State Street,0
+9100116092,Marla Adams,100016093,1468 CONESTOGA CIR,BIN 435663,SWIPED MACHINE READ,Target,10-Nov,75,840,11-Nov,,MSN Banknorth,BB&T,0
+9100116092,Mary Kay Adams,100016093,3130 GRAND AVE,BIN 439209,MANUAL ENTRY,BJS,12-Nov,5,40200,14-Nov,,JPMorgan Chase,SunTrust Bank,1
+9100116092,Neile Adams,100016093,131 CRAWFORD LN APT 3,BIN 469005,SWIPED MACHINE READ,Shell,14-Nov,7,40320,15-Nov,,Bank of America,Charles Schwab,0
+9100116092,Poni Adams,100016093,PO BOX 8202,BIN 558080,Unknown or terminal not used,BP,16-Nov,335,38040,17-Nov,,Wells Fargo,American Express,0
+9100116092,Stella Adams,100016093,326 LIGHT HILL RD,BIN 568580,Manual key entry,Target,7-Nov,5,600,10-Nov,,Citigroup,Ally Financial,0
+9100116092,Yolanda Adams,100016093,1342 19 RD,BIN 5685801,Mag stripe read ? CVV checking not possible,BJS,9-Nov,7,840,10-Nov,,Goldman Sachs,RBC Bank,1
+9100116092,Calpernia Addams,100016093,142 CIMARRON DR,BIN 5685802,Barcode read,MBTA,11-Nov,317,40200,13-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Nancy Addison,100016093,PO BOX 6195,BIN 464864,Unknown,Amazon.com,2-Nov,5,40320,3-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Alexandra Adi,100016093,1636 18 RD,BIN 4648641,MANUAL ENTRY,Uber,4-Nov,7,38040,5-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100116092,Celia Adler,100016093,111 SERNANDINA ST,BIN 4648642,SWIPED MACHINE READ,Draftkings,6-Nov,335,600,9-Nov,,PNC Bank,Citigroup,0
+9100116092,Joanna P. Adler,100016093,PO BOX 109,BIN 464865,MANUAL ENTRY,Nightlife,8-Nov,5,840,9-Nov,,Capital One,Goldman Sachs,0
+9100116092,Sara Adler,100016093,PO BOX 2324,BIN 4648651,SWIPED MACHINE READ,Target,5-Nov,7,40200,7-Nov,,HSBC,Morgan Stanley,0
+9100116092,Stella Adler,100016093,PO BOX 1484,BIN 4848641,Unknown or terminal not used,BJS,7-Nov,317,40320,8-Nov,,TD Bank,U.S. Bancorp,1
+9100116092,Pamela Adlon,100016093,117 RIVERDOWN DR,BIN 4848642,Manual key entry,Shell,9-Nov,5,38040,10-Nov,,State Street,Citizens Bank,0
+9100116092,Iris Adrian,100016093,27657 HIGHWAY 6 TRLR 1704,BIN 484865,Mag stripe read ? CVV checking not possible,Flowers.com,1-Nov,7,40200,4-Nov,,BB&T,USAA,1
+9100116092,Uzo Aduba,100016093,PO BOX 3984,BIN 439858,Barcode read,Walmart,3-Nov,335,600,4-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100116092,Aarthi Agarwal,100016093,PO BOX 4417,BIN 411333,Unknown,Target,11-Nov,5,840,13-Nov,,Charles Schwab,BMO Harris Bank,0
+9100116092,Shohreh Aghdashloo,100016093,549 1ST AVE APT 5H,BIN 41133301,MANUAL ENTRY,BJS,13-Nov,133,600,14-Nov,,American Express,Santander Bank,1
+9100116092,Dianna Agron,100016093,179 COUNTY ROAD 135,BIN 489126,SWIPED MACHINE READ,Shell,15-Nov,133,840,16-Nov,,Ally Financial,Regions Bank,0
+9100116092,Christina Aguilera,100016093,139 CEDAR RIDGE WAY,BIN 578104,MANUAL ENTRY,BP,2-Nov,133,40200,5-Nov,,RBC Bank,M&T Bank,0
+9100116092,Lassie Lou Ahern,100016093,2706 H RD,BIN 493007,SWIPED MACHINE READ,Target,4-Nov,317,40320,5-Nov,,Citizens Bank,Northern Trust,0
+9100116092,Peggy Ahern,100016093,34655 HIGHWAY 6,BIN 487418,Unknown or terminal not used,BJS,6-Nov,75,38040,8-Nov,,USAA,Union Bank,1
+9100116092,Rita Rani Ahuja,100016093,PO BOX 772477,BIN 425798,Manual key entry,MBTA,8-Nov,216,600,9-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,Mary Ainslee,100016093,668 SO ANNABELLE CT,BIN 463666,Mag stripe read ? CVV checking not possible,Amazon.com,10-Nov,75,840,11-Nov,,BMO Harris Bank,MSN Banknorth,0
+9100116092,Helen Ainsworth,100016093,2611 GREENCLIFF DR,BIN 587148,Barcode read,Uber,12-Nov,75,40200,15-Nov,,Santander Bank,Bank of New York Mellon,0
+9100116092,Lexi Ainsworth,100016093,34915 PRONGHORN DR,BIN 574895,Unknown,Draftkings,14-Nov,5,40320,15-Nov,,Regions Bank,PNC Bank,0
+9100116092,Soumaya Akaaboune,100016093,PO BOX 4084,BIN 4229895135,MANUAL ENTRY,Nightlife,16-Nov,7,38040,18-Nov,,M&T Bank,Capital One,0
+9100116092,Karen Akers,100016093,12114 RCR 69,BIN 485584,SWIPED MACHINE READ,Target,7-Nov,335,600,8-Nov,,Northern Trust,HSBC,0
+9100116092,Desiree Akhavan,100016093,1150 E 2ND AVE APT 7,BIN 4855849,MANUAL ENTRY,BJS,9-Nov,5,840,10-Nov,,Union Bank,TD Bank,1
+9100116092,Shuko Akune,100016093,1439 AIRPORT ROAD,BIN 477458,SWIPED MACHINE READ,Shell,11-Nov,7,40200,14-Nov,,KeyCorp,State Street,0
+9100116092,Mackenzie Aladjem,100016093,PO BOX 586,BIN 477412,Unknown or terminal not used,Flowers.com,2-Nov,317,38040,3-Nov,,MSN Banknorth,BB&T,1
+9100116092,Lori Alan,100016093,3093 PINYON PL,BIN 4774121,Manual key entry,Walmart,4-Nov,5,600,6-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100116092,Morjana Alaoui,100016093,1304 N 21ST ST APT 306,BIN 47741218,Mag stripe read ? CVV checking not possible,Target,6-Nov,7,840,7-Nov,,Bank of America,Charles Schwab,0
+9100116092,Jessica Alba,100016093,PO BOX 5690,BIN 524947,Barcode read,BJS,8-Nov,335,40200,9-Nov,,Wells Fargo,American Express,1
+9100116092,Maria Alba,100016093,55 W DRY CREEK CT,BIN 553987,Unknown,Shell,5-Nov,5,38040,8-Nov,,Citigroup,Ally Financial,0
+9100116092,Mabel Albertson,100016093,PO BOX 2912,BIN 557154,MANUAL ENTRY,BP,7-Nov,7,600,8-Nov,,Goldman Sachs,RBC Bank,0
+9100116092,Tessa Albertson,100016093,PO BOX 6463,BIN 566288,SWIPED MACHINE READ,Target,9-Nov,317,840,11-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Lola Albright,100016093,PO BOX 348,BIN 463457,MANUAL ENTRY,BJS,1-Nov,5,40200,2-Nov,,U.S. Bancorp,Bank of America,1
+9100116092,Beatrice Alda,100016093,1452 ELM AVE,BIN 486111,SWIPED MACHINE READ,MBTA,3-Nov,7,38040,4-Nov,,Bank of New York Mellon,Wells Fargo,0
+9100116092,Elizabeth Alda,100016093,306 MEADOWOOD DR APT G1,BIN 422989517,Unknown or terminal not used,Amazon.com,11-Nov,335,40320,14-Nov,,PNC Bank,Citigroup,0
+9100116092,Rutanya Alda,100016093,735 STORM KING CIR,BIN 566205,Manual key entry,Uber,13-Nov,5,600,14-Nov,,Capital One,Goldman Sachs,0
+9100116092,Mary Alden,100016093,133 NIMBUS DR,BIN 587342,Mag stripe read ? CVV checking not possible,Draftkings,15-Nov,133,840,17-Nov,,HSBC,Morgan Stanley,0
+9100116092,Mari Aldon,100016093,PO BOX 156,BIN 514340,Barcode read,Nightlife,2-Nov,133,40200,3-Nov,,TD Bank,U.S. Bancorp,0
+9100116092,Kay Aldridge,100016093,733 CORRAL DR,BIN 435108,Unknown,Target,4-Nov,133,38040,5-Nov,,State Street,Citizens Bank,0
+9100116092,Raquel Alessi,100016093,3166 GLENDAM DR,BIN 449715,MANUAL ENTRY,BJS,6-Nov,133,40320,9-Nov,,BB&T,USAA,1
+9100116092,Alex ter Avest,100016093,692 CLARKSON AVE APT B,BIN 515240,SWIPED MACHINE READ,Shell,8-Nov,133,600,9-Nov,,SunTrust Bank,Fifth Third Bank,0
+9100116092,Denise Alexander,100016093,PO BOX 6289,BIN 587387,MANUAL ENTRY,Flowers.com,10-Nov,133,840,12-Nov,,Charles Schwab,BMO Harris Bank,1
+9100116092,Jaimie Alexander,100016093,527 JACOBS PL,BIN 578081,SWIPED MACHINE READ,Walmart,12-Nov,133,40200,13-Nov,,American Express,Santander Bank,0
+9100116092,Jane Alexander,100016093,56 POPPY CT,BIN 57808199,Unknown or terminal not used,Target,14-Nov,133,38040,15-Nov,,Ally Financial,Regions Bank,0
+9100116092,Katharine Alexander,100016093,305 CASTLE RIDGE DR,BIN 4229895634,Manual key entry,BJS,16-Nov,133,40320,19-Nov,,RBC Bank,M&T Bank,1
+9100116092,Khandi Alexander,100016093,PO BOX 1569,BIN 4229895642,Mag stripe read ? CVV checking not possible,Shell,7-Nov,317,40200,8-Nov,,Citizens Bank,Northern Trust,0
+9100116092,Olivia Alexander,100016093,2015 CAMBRIDGE DR,BIN 4229895718,Barcode read,BP,9-Nov,75,600,11-Nov,,USAA,Union Bank,0
+9100116092,Sasha Alexander,100016093,PO BOX 169942,BIN 423869,Unknown,Target,11-Nov,216,840,12-Nov,,Fifth Third Bank,KeyCorp,0
+9100116092,Gloria Alexandra,100016093,PO BOX 190752,BIN 4238695634,MANUAL ENTRY,BJS,2-Nov,75,38040,3-Nov,,BMO Harris Bank,MSN Banknorth,1
+9100116092,Tiana Alexandra,100016093,24 CEDAR CREST DR,BIN 4238695718,SWIPED MACHINE READ,MBTA,4-Nov,75,40200,7-Nov,,Santander Bank,Bank of New York Mellon,0
+9100116092,Sadie Alexandru,100016093,1510 ARIZONA ST,BIN 534040,MANUAL ENTRY,Amazon.com,6-Nov,5,600,7-Nov,,Regions Bank,PNC Bank,0
+9100116092,Marnie Alexenburg,100016093,1052 E COLUMBINE AVE,BIN 510899,SWIPED MACHINE READ,Uber,8-Nov,7,840,10-Nov,,M&T Bank,Capital One,0
+9100116092,Kristian Alfonso,100016093,218 VISTA HILLS DR,BIN 534077,Unknown or terminal not used,Draftkings,5-Nov,335,38040,6-Nov,,Northern Trust,HSBC,0
+9100116092,Brittney Alger,100016093,PO BOX 1788,BIN 521724,Manual key entry,Nightlife,7-Nov,5,40200,8-Nov,,Union Bank,TD Bank,0
+9100116092,Khalilah Ali,100016093,293 MOUNTAIN VIEW ST,BIN 409251,Mag stripe read ? CVV checking not possible,Target,9-Nov,7,600,12-Nov,,KeyCorp,State Street,0
+9100116092,Tatyana Ali,100016093,PO BOX 5409552,BIN 587078,Barcode read,BJS,1-Nov,317,840,2-Nov,,MSN Banknorth,BB&T,1
+9100116092,Veronica Porché Ali,100016093,PO BOX 6182461,BIN 516423,Unknown,Shell,3-Nov,5,38040,5-Nov,,JPMorgan Chase,SunTrust Bank,0
+9100116092,Mary Alice,100016093,5 CHARTER OAK AVE UNIT 1,BIN 510774,MANUAL ENTRY,Flowers.com,11-Nov,7,40200,12-Nov,,Bank of America,Charles Schwab,1
+9100116092,Ana Alicia,100016093,540 TAMARACK DR UNIT 403,BIN 511100,SWIPED MACHINE READ,Walmart,13-Nov,335,15960,14-Nov,,Wells Fargo,American Express,0
+9100116092,Bianca Allaine,100016093,323 SAGEMONT CIR,BIN 510840,MANUAL ENTRY,Target,15-Nov,5,15960,18-Nov,,Citigroup,Ally Financial,0
+9100116092,Ava Allan,100016093,1863 GRACELAND DR,BIN 51084014,SWIPED MACHINE READ,BJS,2-Nov,7,15960,3-Nov,,Goldman Sachs,RBC Bank,1
+9100116092,Maud Allan,100016093,406 BALLARD AVE,BIN 51084016,Unknown or terminal not used,Shell,4-Nov,317,15960,6-Nov,,Morgan Stanley,JPMorgan Chase,0
+9100116092,Louise Allbritton,100016093,PO BOX 8804,BIN 51084022,Manual key entry,BP,6-Nov,5,15960,7-Nov,,U.S. Bancorp,Bank of America,0
+9100116092,Gia Allemand,100016093,643 1/2 IAN CT,BIN 51084028,Mag stripe read ? CVV checking not possible,Target,8-Nov,7,15960,9-Nov,,Bank of New York Mellon,Wells Fargo,0
